@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+
+<header>
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+
+</header>
+
+<div class="scroller">
+
+{% if page.image %}
+<div class="article_image">
+  <div>
+    <div>
+      <img src="{{ page.image }}" alt="{{ page.image_alt }}">
+      {% if page.image_credit %}
+      <span>{{ page.image_credit }}</span>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<main>
+<h1>{{ page.title }}</h1>
+{{ content }}
+</main>
+
+{% if page.author %}
+<div class="author_box">
+  <img src="{{ site.authors[page.author]['photo'] }}">
+  <div>
+    <div class="author_byline">{{ page.author }}</div>
+    <div class="author_blurb">
+      {{ site.authors[page.author]['blurb'] }}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if site.google_ad_client %}
+<div class="google_ads_container">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.google_ad_client }}"
+       data-ad-slot="{{ site.google_ad_slot }}"
+       data-ad-format="horizontal"
+       data-full-width-responsive="false"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{% endif %}
+
+</div>
+
+<footer>
+	<span>{{ site.copyright }}</span>
+	<span><a href="/privacy">Privacy Policy</a></span>
+</footer>
+
+{% if site.google_analytics %}
+<script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+   ga('create', '{{ site.google_analytics }}', 'auto');
+   ga('send', 'pageview');
+</script>
+{% endif %}
+
+</body>
+</html>

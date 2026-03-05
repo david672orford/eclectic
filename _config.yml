@@ -1,0 +1,29 @@
+title: Tech for Teaching
+description: Computer software and Internet technology to prepare materials for your course
+copyright: "© 2020 — 2026 David Chappell"
+authors:
+  "David Chappell":
+    photo: /assets/images/author.jpg
+    blurb: >
+      A computer programmer with 25 years of experience using and creating web technology.
+      He enjoys applying his skills to the creation of language-teaching materials. 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      image: /assets/images/title/image.png
+      image_alt: Students listen intently as an instructor jestures toward a screen showing a laptop computer, camera, and microphone.
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post" 
+      image: /assets/images/title/image.png
+      image_alt: Students listen intently as an instructor jestures toward a screen showing a laptop computer, camera, and microphone.
+permalink: /blog/:year/:month/:day/:title
+google_analytics: UA-48777822-8 
+#google_ad_client: ca-pub-9697496962185999
+#google_ad_slot: 4238015419
