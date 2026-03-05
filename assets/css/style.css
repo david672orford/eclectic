@@ -139,6 +139,7 @@ LI {
 ARTICLE {
 	border: thin solid black;
 	padding: 0.5em;
+	margin-bottom: .5em;
 	}
 ARTICLE H1 {
 	font-size: 120%;
@@ -149,7 +150,6 @@ ARTICLE H2 {
 	font-size: 110%;
 	margin-bottom: .2em;
 	}
-
 
 FIGURE.right_edge {
 	float: right;
