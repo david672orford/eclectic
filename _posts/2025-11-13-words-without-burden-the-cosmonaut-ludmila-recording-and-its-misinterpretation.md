@@ -1,3 +1,32 @@
+---
+style: >
+	.P11 {
+	  font-style: italic;
+	}
+	.T1 {
+	  }
+	.T2 {
+	  font-style: italic;
+	}
+	TABLE {
+	  margin-bottom: .3em;
+	}
+	.Quotations {
+	  margin-left: 1em;
+	  margin-right: 1em;
+	  padding: .5em;
+	  background-color: #f0f0f0;
+	  }
+	.note-citation {
+	  font-size: .85em;
+	  vertical-align: super;
+	 }
+	UL.notes { list-style-type: none; margin: 0; }
+	UL.notes LI { display: flex; margin: .2em 0 }
+	OL { padding-left: 2rem; }
+	DIV.note-citation { width: 3.5rem; flex-shrink: 0 }
+	DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
+---
 <figure class="right_edge">
 	<img src="/files/2024/10/Judica-cordiglia-brothers-300x200.jpg">
 	<figcaption>The Judica-Cordiglia brothers, Achille (1933–2015) and Giovanni Battista (1939–2024), radio amateurs of Turin, Italy.</figcaption>
