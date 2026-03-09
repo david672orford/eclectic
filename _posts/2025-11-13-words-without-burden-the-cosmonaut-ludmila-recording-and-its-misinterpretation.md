@@ -28,7 +28,7 @@ style: >
 	DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
 ---
 <figure class="right_edge">
-	<img src="/files/2024/10/Judica-cordiglia-brothers-300x200.jpg">
+	<img src="/files/2024/10/Judica-cordiglia-brothers.jpg">
 	<figcaption>The Judica-Cordiglia brothers, Achille (1933–2015) and Giovanni Battista (1939–2024), radio amateurs of Turin, Italy.</figcaption>
 </figure>
 <p class="P11" lang="en">The so-called Cosmonaut Ludmila recording is of a series of radio transmissions intercepted by the Judica-Cordiglia brothers in May of 1961 on a channel which they believed was used by the Soviet space program. They interpreted the utterances as a distress call from a Soviet female astronaut reporting an onboard fire. Since no corresponding Soviet space mission has ever been identified, it is now widely supposed that the recording is a clumsy hoax. We carefully transcribe the recording and find that it contains no references at all to space flight, only nondescript utterances interspersed with childish patter and frivolous remarks about the heat in the radio operator’s workspace.</p>
