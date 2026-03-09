@@ -119,8 +119,8 @@ ARTICLE H2 {
 FIGURE.right_edge {
 	float: right;
 	clear: both;
-	width: 15%;
-	max-width: 300px;
+	width: 300px;
+	max-width: 33%;
 	margin: .5em 0 .5em .5em;
 	padding: 5px;
 	border: 1px solid black;
