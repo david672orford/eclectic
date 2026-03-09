@@ -1,4 +1,28 @@
-[caption id="attachment_362" align="alignright" width="225"]<a href="https://commons.trincoll.edu/eclectic/files/2024/01/Guglielmo_Marconi.jpg"><img src="https://commons.trincoll.edu/eclectic/files/2024/01/Guglielmo_Marconi-225x300.jpg" alt="A portrait of a man in suit and tie" width="225" height="300" class="size-medium wp-image-362" /></a> Guglielmo Marconi in 1909[/caption]
+---
+style: >
+.T1 {
+  font-style: italic;
+  }
+.Quotations {
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: .5em;
+  background-color: #f0f0f0;
+  }
+.note-citation {
+  font-size: .85em;
+  vertical-align: super;
+ }
+ UL.notes { list-style-type: none; margin: 0; }
+ UL.notes LI { display: flex; margin: .2em 0 }
+ DIV.note-citation { width: 2.5rem; flex-shrink: 0 }
+ DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
+excerpt_separator: <!--more-->
+---
+<figure class="float-right">
+	<img src="/files/2024/01/Guglielmo_Marconi-225x300.jpg" alt="A portrait of a man in suit and tie" width="225" height="300" class="size-medium wp-image-362" /></a>
+	<figcaption>Guglielmo Marconi in 1909</figcaption>
+</figure>
 
 <p class="Text_20_body">Since my <a href="https://commons.trincoll.edu/eclectic/mystifying-marconi/">previous article</a> on Marconi I have tracked down the source of the extraordinary assertion made in the <span class="T1">Provincetown Independent </span>that the radio pioneer believed “sound never disappears from Earth”.<a class="note-citation" href="#ftn1">i</a> All the references I have found to this idea eventually lead back to the book <span class="T1">Perfecting Sound Forever: An Aural History of Recorded Music</span> by Greg Milner which was published in 2009<a class="note-citation" href="#ftn2">ii</a>.
 

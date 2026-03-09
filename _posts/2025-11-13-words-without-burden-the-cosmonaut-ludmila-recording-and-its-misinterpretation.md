@@ -26,6 +26,7 @@ style: >
 	OL { padding-left: 2rem; }
 	DIV.note-citation { width: 3.5rem; flex-shrink: 0 }
 	DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
+excerpt_separator: <!--more-->
 ---
 <figure class="float-right">
 	<img src="/files/2024/10/Judica-cordiglia-brothers.jpg">
