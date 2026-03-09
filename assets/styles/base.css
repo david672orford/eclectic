@@ -116,7 +116,7 @@ ARTICLE H2 {
 	margin-bottom: .2em;
 	}
 
-FIGURE.right_edge {
+FIGURE.float-right {
 	float: right;
 	clear: both;
 	width: 300px;
@@ -126,7 +126,7 @@ FIGURE.right_edge {
 	border: 1px solid black;
 	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
-FIGURE A, FIGURE IMG {
+FIGURE.float-right IMG {
 	display: block;
 	width: 100%;
 	}
