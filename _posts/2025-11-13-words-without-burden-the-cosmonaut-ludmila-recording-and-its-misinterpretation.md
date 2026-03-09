@@ -27,7 +27,7 @@ style: >
 	DIV.note-citation { width: 3.5rem; flex-shrink: 0 }
 	DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
 ---
-<figure class="right_edge">
+<figure class="float-right">
 	<img src="/files/2024/10/Judica-cordiglia-brothers.jpg">
 	<figcaption>The Judica-Cordiglia brothers, Achille (1933–2015) and Giovanni Battista (1939–2024), radio amateurs of Turin, Italy.</figcaption>
 </figure>

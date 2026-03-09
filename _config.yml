@@ -7,7 +7,7 @@ authors:
     blurb: >
       A computer programmer with 25 years of experience using and creating web technology.
       He enjoys applying his skills to the creation of language-teaching materials. 
-permalink: /blog/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 #google_analytics: UA-48777822-8
 #google_ad_client: ca-pub-9697496962185999
 #google_ad_slot: 4238015419
