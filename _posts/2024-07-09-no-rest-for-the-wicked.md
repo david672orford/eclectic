@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: no-rest-for-the-wicked/
 title: No Rest for the Wicked
-description: None
+permalink: no-rest-for-the-wicked/
 date: 2024-07-09 13:00:22 -0000
 last_modified_at: 2025-08-22 13:07:14 -0000
-publish: true
-pin: false
 categories:
 - english
 - writing style

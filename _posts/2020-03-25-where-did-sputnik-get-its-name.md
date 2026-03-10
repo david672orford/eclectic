@@ -1,16 +1,8 @@
 ---
-layout: post
-permalink: where-did-sputnik-get-its-name/
 title: Where Did Sputnik Get its Name?
-description: None
+permalink: where-did-sputnik-get-its-name/
 date: 2020-03-25 17:54:19 -0000
 last_modified_at: 2024-05-23 20:50:41 -0000
-publish: true
-pin: false
-image:
-  path: /files/2020/03/1967_CPA_3496.jpg
-  alt: Postage stamp shows Earth in orbit around Sun with a man-made object in Earth
-    orbit.
 categories:
 - russian
 - science

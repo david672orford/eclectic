@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: double-negation/
 title: Double Negation
-description: None
+permalink: double-negation/
 date: 2024-05-09 16:08:18 -0000
 last_modified_at: 2025-08-22 13:08:43 -0000
-publish: true
-pin: false
 categories:
 - english
 - language

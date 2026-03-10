@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: how-to-be-a-good-voip-provider-for-asterisk-users/
 title: How to be a Good VoIP Provider for Asterisk Users
-description: None
+permalink: how-to-be-a-good-voip-provider-for-asterisk-users/
 date: 2009-01-09 22:13:00 -0000
 last_modified_at: 2016-01-14 22:06:24 -0000
-publish: true
-pin: false
 categories:
 - asterisk
 - telephony

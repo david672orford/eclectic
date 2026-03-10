@@ -1,7 +1,6 @@
 ---
-permalink: chatgpt-hallucinates-about-newtons-faith/
 title: "ChatGPT Hallucinates about Newton\u2019s Faith"
-description: None
+permalink: chatgpt-hallucinates-about-newtons-faith/
 date: 2024-11-22 15:36:59 -0000
 last_modified_at: 2025-09-11 19:43:48 -0000
 categories:

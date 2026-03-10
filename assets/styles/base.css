@@ -155,6 +155,9 @@ FIGURE.float.right {
 	float: right;
 	margin: 0 0 .5em .5em;
 	}
+FIGURE.float FIGCAPTION {
+	font-family: sans-serif;
+	}
 
 /* Syntax highlighting */
 PRE {

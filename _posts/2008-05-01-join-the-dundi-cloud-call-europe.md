@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: join-the-dundi-cloud-call-europe/
 title: Join the DUNDi cloud, call Europe!
-description: None
+permalink: join-the-dundi-cloud-call-europe/
 date: 2008-05-01 17:19:00 -0000
 last_modified_at: 2016-01-14 22:11:23 -0000
-publish: true
-pin: false
 categories:
 - asterisk
 - voip

@@ -1,8 +1,6 @@
 ---
-layout: post
-permalink: radio-shack-brand-may-return-online/
 title: Radio Shack brand may return online
-description: None
+permalink: radio-shack-brand-may-return-online/
 date: 2020-12-12 14:41:28 -0000
 last_modified_at: 2021-09-17 12:43:57 -0000
 categories:

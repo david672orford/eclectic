@@ -1,7 +1,6 @@
 ---
-permalink: newtons-views-on-science-and-theology/
 title: Newton's Views on Science and Theology
-description: None
+permalink: newtons-views-on-science-and-theology/
 date: 2019-02-05 17:47:03 -0000
 last_modified_at: 2021-02-06 19:48:36 -0000
 categories:

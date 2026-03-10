@@ -1,6 +1,5 @@
 ---
 title: Electrical Power and Power Loss
-description: None
 permalink: electrical-power-and-power-loss/
 date: 2016-03-02 16:18:50 -0000
 last_modified_at: 2021-02-08 15:58:27 -0000

@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: unsubscribing-from-zoom-release-notes-e-mails/
 title: Unsubscribing from Zoom Release Notes E-Mails
-description: None
+permalink: unsubscribing-from-zoom-release-notes-e-mails/
 date: 2023-02-11 17:02:30 -0000
 last_modified_at: 2023-02-11 17:04:55 -0000
-publish: true
-pin: false
 categories:
 - computing
 tags: []

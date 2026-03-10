@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: my-voip-network/
 title: My VoIP network
-description: None
+permalink: my-voip-network/
 date: 2008-05-01 15:15:00 -0000
 last_modified_at: 2016-01-14 21:42:25 -0000
-publish: true
-pin: false
 categories:
 - asterisk
 - voip

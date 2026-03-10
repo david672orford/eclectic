@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: institutional-memory/
 title: Institutional Memory
-description: None
+permalink: institutional-memory/
 date: 2018-10-11 20:36:22 -0000
 last_modified_at: 2021-02-08 13:15:27 -0000
-publish: true
-pin: false
 image:
   path: /files/2018/10/publicdomainq-family-e1539291720134.png
 categories:

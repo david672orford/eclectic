@@ -1,14 +1,8 @@
 ---
-layout: post
-permalink: updating-webmins-self-signed-certificate/
 title: Updating Webmin's Self-Signed Certificate
-description: None
+permalink: updating-webmins-self-signed-certificate/
 date: 2019-08-28 15:50:21 -0000
 last_modified_at: 2023-02-11 17:08:30 -0000
-publish: true
-pin: false
-image:
-  path: /files/2019/08/signature.png
 categories:
 - system administration
 tags: []

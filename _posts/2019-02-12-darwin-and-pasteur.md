@@ -1,7 +1,6 @@
 ---
-permalink: darwin-and-pasteur/
 title: Darwin and Pasteur
-description: None
+permalink: darwin-and-pasteur/
 date: 2019-02-12 19:38:08 -0000
 last_modified_at: 2021-02-06 19:49:18 -0000
 categories:

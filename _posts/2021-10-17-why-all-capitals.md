@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: why-all-capitals/
 title: Why All Capitals?
-description: None
+permalink: why-all-capitals/
 date: 2021-10-17 13:37:25 -0000
 last_modified_at: 2025-09-11 19:46:14 -0000
-publish: true
-pin: false
 categories:
 - computing
 tags: []

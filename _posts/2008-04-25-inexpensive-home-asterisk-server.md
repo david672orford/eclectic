@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: inexpensive-home-asterisk-server/
 title: Inexpensive home Asterisk server
-description: None
+permalink: inexpensive-home-asterisk-server/
 date: 2008-04-25 14:56:00 -0000
 last_modified_at: 2016-01-14 21:56:36 -0000
-publish: true
-pin: false
 categories:
 - asterisk
 - voip

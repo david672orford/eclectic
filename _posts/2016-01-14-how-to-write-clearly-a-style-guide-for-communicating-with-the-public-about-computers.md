@@ -1,6 +1,5 @@
 ---
 title: Communicating Clearly About Computing
-description: None
 permalink: how-to-write-clearly-a-style-guide-for-communicating-with-the-public-about-computers/
 date: 2016-01-14 21:43:19 -0000
 last_modified_at: 2021-06-08 19:55:30 -0000

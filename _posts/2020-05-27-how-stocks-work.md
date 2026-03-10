@@ -1,7 +1,6 @@
 ---
-permalink: how-stocks-work/
 title: How Stocks Work
-description: None
+permalink: how-stocks-work/
 date: 2020-05-27 16:44:52 -0000
 last_modified_at: 2021-02-06 19:48:07 -0000
 categories:

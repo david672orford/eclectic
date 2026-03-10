@@ -1,6 +1,5 @@
 ---
 title: Reducing Echo in Telephone Handsets
-description: None
 permalink: echo-in-telelephone-headsets/
 date: 2009-01-22 17:19:00 -0000
 last_modified_at: 2021-02-06 19:43:30 -0000

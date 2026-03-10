@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: you-need-verbs-saying-what-computers-do/
 title: 'You Need Verbs: Saying What Computers Do'
-description: None
+permalink: you-need-verbs-saying-what-computers-do/
 date: 2024-08-09 13:00:13 -0000
 last_modified_at: 2025-08-22 13:10:11 -0000
-publish: true
-pin: false
 categories:
 - computing
 - english

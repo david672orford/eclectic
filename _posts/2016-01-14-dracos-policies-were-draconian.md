@@ -1,6 +1,5 @@
 ---
 title: Draco's Policies were Draconian
-description: None
 permalink: dracos-policies-were-draconian/
 date: 2016-01-14 18:35:47 -0000
 last_modified_at: 2016-01-14 22:10:44 -0000

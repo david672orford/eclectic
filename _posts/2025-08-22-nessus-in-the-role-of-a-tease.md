@@ -1,6 +1,5 @@
 ---
 title: Nessus in the Role of a Tease
-description: None
 permalink: nessus-in-the-role-of-a-tease/
 date: 2025-08-22 13:04:11 -0000
 last_modified_at: 2025-09-11 19:44:36 -0000

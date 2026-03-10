@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: workaround-for-diversity-visa-lottery-site-bugs/
 title: Workaround for Diversity Visa Lottery Site Bugs
-description: None
+permalink: workaround-for-diversity-visa-lottery-site-bugs/
 date: 2024-10-04 13:00:20 -0000
 last_modified_at: 2024-05-09 16:57:02 -0000
-publish: true
-pin: false
 categories:
 - dns
 tags: []

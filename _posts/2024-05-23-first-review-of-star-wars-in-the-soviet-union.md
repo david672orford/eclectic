@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: first-review-of-star-wars-in-the-soviet-union/
 title: First Review of <i>Star Wars</i> in the Soviet Union
-description: None
+permalink: first-review-of-star-wars-in-the-soviet-union/
 date: 2024-05-23 21:08:48 -0000
 last_modified_at: 2025-08-22 13:09:30 -0000
-publish: true
-pin: false
 categories:
 - reviews
 - society

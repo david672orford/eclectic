@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: review-of-sun-joe-cj603e-wood-chipper/
 title: Review of the Sun Joe CJ603E Wood Chipper
-description: None
+permalink: review-of-sun-joe-cj603e-wood-chipper/
 date: 2020-04-13 14:18:50 -0000
 last_modified_at: 2025-04-04 03:47:39 -0000
-publish: true
-pin: false
 categories:
 - electricity
 - reviews

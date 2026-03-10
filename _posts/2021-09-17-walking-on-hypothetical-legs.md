@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: walking-on-hypothetical-legs/
 title: Walking on Hypothetical Legs
-description: None
+permalink: walking-on-hypothetical-legs/
 date: 2021-09-17 12:39:04 -0000
 last_modified_at: 2021-11-07 22:43:28 -0000
-publish: true
-pin: false
 categories:
 - evolution
 - science

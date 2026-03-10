@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: yet-another-voip-blog/
 title: Yet another VoIP blog
-description: None
+permalink: yet-another-voip-blog/
 date: 2008-04-23 14:55:00 -0000
 last_modified_at: 2016-01-14 21:43:57 -0000
-publish: true
-pin: false
 categories:
 - asterisk
 - voip

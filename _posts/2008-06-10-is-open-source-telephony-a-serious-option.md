@@ -1,12 +1,8 @@
 ---
-layout: post
-permalink: is-open-source-telephony-a-serious-option/
 title: Is open source telephony a serious option?
-description: None
+permalink: is-open-source-telephony-a-serious-option/
 date: 2008-06-10 15:56:00 -0000
 last_modified_at: 2016-01-14 22:07:28 -0000
-publish: true
-pin: false
 categories:
 - asterisk
 - opensource

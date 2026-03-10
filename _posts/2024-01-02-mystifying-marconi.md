@@ -1,11 +1,8 @@
 ---
 title: Mystifying Marconi
-description: None
 permalink: mystifying-marconi/
 date: 2024-01-03 00:04:13 -0000
 last_modified_at: 2025-12-24 14:16:59 -0000
-publish: true
-pin: false
 categories:
 - electricity
 - science
