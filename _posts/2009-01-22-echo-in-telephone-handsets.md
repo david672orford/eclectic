@@ -23,36 +23,38 @@ Linksys SPA-841 in order to reduce echo.
 
 <!--more-->
 
+<br clear="both">
 {% include figure.html file="2009/01/p4255505.jpg"
 	side="left"
 	width=300 height=225
 %}
 Here is a typical SIP telephone, a Linksys SPA-841. It is not a bad
 phone, but there is a noticable echo.  
-<br clear="both">
 
+<br clear="both">
 {% include figure.html file="2009/01/p4255506.jpg"
 	side="left"
 	width=300 height=225
 %}
 In order to add cotton wool, we must first open the handset. Notice the small
 foam-rubber plug in the centre. This plug conceals a screw.  
-<br clear="both">
 
+<br clear="both">
 {% include figure.html file="2009/01/p4255508.jpg"
 	side="left"
 	width=300 height=225
 %}
 The plug should be gently removed using tweezers or needle-nose pliers. Once it
 is out, the screw can be removed.  
-<br clear="both">
 
+<br clear="both">
 {% include figure.html file="2009/01/p4255511.jpg"
 	side="left"
 	width=300 height=225
 %}
 Even with the plug out, the two halves of the handset are held together with
 clips. Take a dull knife and gently pry them apart.  
+
 <br clear="both">
 
 {% include figure.html file="2009/01/p4255512.jpg"
@@ -63,8 +65,8 @@ Now that the handset is open, we see that there is no cotton whool. The piece
 of steel in the center is to give the handset more weight. Otherwise it would
 tend to slip out of the hand easily and would give the impression of poor
 quality.  
-<br clear="both">
 
+<br clear="both">
 {% include figure.html file="2009/01/p4255513.jpg"
 	side="left"
 	width=300 height=225
@@ -72,6 +74,7 @@ quality.
 Here we have packed cotton whool around the transmitter and receiver. All that
 is left to do is reasemble the handset. If the clips broke when you pried it
 apart, a small drop of glue may be in order.  
+
 <br clear="both">
 
 Since I modified my telephone in this way, it seems to have noticably less echo.

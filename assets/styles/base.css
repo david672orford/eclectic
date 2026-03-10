@@ -99,9 +99,24 @@ SECTION.teaser A.wide IMG {
 	display: block;
 	width: 100%;
 	}
+SECTION.teaser .note-citation {	/* odt2html output */
+	display: none;
+	}
 
 DIV.pagination {
-	margin: .5em;
+	padding: .5em;
+	font-family: sans-serif;
+	background-color: #f0f0f0;
+	}
+DIV.pagination A {
+	text-decoration: none;
+	color: inherit;
+	}
+DIV.pagination .current-page {
+	font-weight: bold;
+	}
+DIV.pagination A:hover {
+	font-weight: bold;
 	}
 
 /* Blog posting */
@@ -129,6 +144,7 @@ ARTICLE A.wide, ARTICLE A.wide IMG {
 	}
 
 DIV.post-date {
+	font-family: sans-serif;
 	font-size: 80%;
 	}
 
@@ -156,6 +172,7 @@ FIGURE.float.right {
 	margin: 0 0 .5em .5em;
 	}
 FIGURE.float FIGCAPTION {
+	margin-top: .3em;
 	font-family: sans-serif;
 	font-size: 80%;
 	}

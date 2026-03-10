@@ -1,6 +1,6 @@
 title: Eclectic
 description: Language, computing, and other topics
-copyright: "© 2008 — 2026 David Chappell"
+copyright: "© 2008—2026 David Chappell"
 authors:
   "David Chappell":
     photo: /assets/images/author.jpg
@@ -20,3 +20,4 @@ plugins:
   - jekyll-paginate
 paginate: 5
 paginate_path: "/page/:num/"
+date_format: "%Y-%m-%d"
