@@ -12,7 +12,10 @@
 <body>
 
 <header>
-  <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+  <h1>
+    <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
+    {% if page.title %} — {{ page.title }}{% endif %}
+  </h1>
   {% if page.banner_image %}
   <div class="banner-image">
     <div>
@@ -27,4 +30,4 @@
   {% endif %}
 </header>
 
-<main>
+<main class="{{page.layout}}">

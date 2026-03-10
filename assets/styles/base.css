@@ -24,7 +24,7 @@ HEADER, FOOTER {
 	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	}
 HEADER H1 {
-	font-size: 150%;
+	font-size: 120%;
 	padding: .4em;
 	}
 HEADER A, FOOTER A {
@@ -74,6 +74,10 @@ LI {
 	margin: 0 0 .4em 0;
 	}
 
+MAIN.page {
+	padding: 0.5em;
+	}
+
 SECTION.teaser {
 	display: flow-root;
 	max-width: 40em;
@@ -94,6 +98,10 @@ SECTION.teaser A.wide {
 SECTION.teaser A.wide IMG {
 	display: block;
 	width: 100%;
+	}
+
+DIV.pagination {
+	margin: .5em;
 	}
 
 /* Blog posting */
