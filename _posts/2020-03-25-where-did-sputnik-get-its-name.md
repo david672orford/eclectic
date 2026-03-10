@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: eclectic/where-did-sputnik-get-its-name/
+permalink: where-did-sputnik-get-its-name/
 title: Where Did Sputnik Get its Name?
 description: None
 date: 2020-03-25 17:54:19 -0000
@@ -17,17 +17,112 @@ categories:
 - space
 tags: []
 ---
-[![Postage stamp shows Earth in orbit around Sun with a man-made object in Earth orbit.](/files/2020/03/1967_CPA_3496-241x300.jpg)](/files/2020/03/1967_CPA_3496.jpg) On October 5, 1957, the Soviet newspaper _Pravda_ announced that the Soviet Union had launched a 184 pound object into Earth orbit. That first artificial satellite has since come to be known in the English-speaking world as Sputnik. In the West it is now widely assumed that the Soviets chose the word _sputnik_ as the name for their satellite because it means "fellow traveler." This is not what actually happened.  The world first learned of the launch from this brief report in _Pravda_. Though the story was printed on the front page above the fold, it ran under the bland headline "TASS Report". A few dry paragraphs spoke of a long-standing dream in the scientific community about the possibility of creating "an artificial Earth satellite." Only in paragraph three did they come to the point, stating that the Soviet Union has brought this dream to fruition. The article went on to give a few facts and figures about the new satellite and advice for viewing it or listening to its radio signals. No name for the satellite was mentioned. Despite the fact that _Pravda_ buried the lede, the announcement created an international sensation. Foreign papers repeated the announcement the same day in blaring full-width front page headlines. The next day, as Soviet leaders realized what a propaganda _coupe_ this was, _Pravda_ also dedicated the entire front page to coverage under the full-width headline "The World's First Artificial Satellite of Earth Was Made in the Soviet Union!". Articles above the fold included _A Triumph of Soviet Science and Technology_ and _The Most Impudent Dreams of Mankind Become Reality_. Today when we hear the word "satellite" we assume that a man-made object is meant, but in 1957 this needed to be made explicit. Up to then the word "satellite" primarily meant a natural satellites such the moons of Earth or Jupiter. The situation was similar in Russian. That is why _Pravda_ had to spell out what was meant writing that this was an "artificial satellite of Earth".
+[![Postage stamp shows Earth in orbit around Sun with a man-made object in Earth orbit.](/files/2020/03/1967_CPA_3496-241x300.jpg)](/files/2020/03/1967_CPA_3496.jpg)
+
+On October 5, 1957, the Soviet newspaper _Pravda_ announced that the Soviet
+Union had launched a 184 pound object into Earth orbit. That first artificial
+satellite has since come to be known in the English-speaking world as Sputnik.
+In the West it is now widely assumed that the Soviets chose the word _sputnik_
+as the name for their satellite because it means "fellow traveler." This is not
+what actually happened.
+
+The world first learned of the launch from this brief
+report in _Pravda_. Though the story was printed on the front page above the
+fold, it ran under the bland headline "TASS Report". A few dry paragraphs spoke
+of a long-standing dream in the scientific community about the possibility of
+creating "an artificial Earth satellite." Only in paragraph three did they come
+to the point, stating that the Soviet Union has brought this dream to fruition.
+The article went on to give a few facts and figures about the new satellite and
+advice for viewing it or listening to its radio signals. No name for the
+satellite was mentioned.
+
+Despite the fact that _Pravda_ buried the lede, the
+announcement created an international sensation. Foreign papers repeated the
+announcement the same day in blaring full-width front page headlines. The next
+day, as Soviet leaders realized what a propaganda _coupe_ this was, _Pravda_
+also dedicated the entire front page to coverage under the full-width headline
+"The World's First Artificial Satellite of Earth Was Made in the Soviet
+Union!". Articles above the fold included _A Triumph of Soviet Science and
+Technology_ and _The Most Impudent Dreams of Mankind Become Reality_.
+
+Today when we hear the word "satellite" we assume that a man-made object is meant,
+but in 1957 this needed to be made explicit. Up to then the word "satellite"
+primarily meant a natural satellites such the moons of Earth or Jupiter. The
+situation was similar in Russian. That is why _Pravda_ had to spell out what
+was meant writing that this was an "artificial satellite of Earth".
+
+<div style="width: 2.5in; float: right">
 
 ### The Russian Word
 
-The Russian word _sputnik_ is derived from the word _put_ (pronounced _poot_) which means a way or path. The prefix _s-_ means co- and the suffix _-nik_ makes it a person. So it literally means "co-wayfarer". In Russian the word is still used in this literal sense.
+The Russian word _sputnik_ is derived from the word _put_ (pronounced _poot_)
+which means a way or path. The prefix _s-_ means co- and the suffix _-nik_
+makes it a person. So it literally means "co-wayfarer". In Russian the word is
+still used in this literal sense.
 
-The word has a number of figurative uses. The most common is in the phrase _sputnik zhizni_ (literally co-wayfarer of life) which means spouse.
+The word has a number of figurative uses. The most common is in the phrase
+_sputnik zhizni_ (literally co-wayfarer of life) which means spouse.
 
-Use of the word _sputnik_ to refer to an object in orbit dates to 1744 when [Mikhail Lomonosov](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) used it in his translation of _Beschreibung des im Anfang des Jahrs 1744 erschienenen Cometen nebst einigen darüber angestellten Betrachtungen_ _(A Description of the Comet which Appeared at the Start of the Year 1744 Together With Observations Made Regarding Same)_ by German mathematician, geographer and astronomer [Gottfried Heinsius](https://en.wikipedia.org/wiki/Gottfried_Heinsius).
+Use of the word _sputnik_ to refer to an object in orbit dates to 1744 when
+[Mikhail Lomonosov](https://en.wikipedia.org/wiki/Mikhail_Lomonosov) used it in
+his translation of _Beschreibung des im Anfang des Jahrs 1744 erschienenen
+Cometen nebst einigen darüber angestellten Betrachtungen_ _(A Description of
+the Comet which Appeared at the Start of the Year 1744 Together With
+Observations Made Regarding Same)_ by German mathematician, geographer and
+astronomer [Gottfried
+Heinsius](https://en.wikipedia.org/wiki/Gottfried_Heinsius).
 
-Because the concept of an "artificial satellite" had been purely theoretical and relatively obscure, there apparently was not yet a well-established term for such a device. For several days the Western press struggled with what to call it. In the first few days _Pravda's_ wordy "an artificial satellite of Earth" was used, but it was also called "the device" and even "the Red moon". In Washington, a journalist named [can't find the reference] was asked for suggestions for a less awkward description. He took the phrase _искусcтвеyный спутник Земли_ (artificial satellite of Earth) from _Pravda_ , kept only the key word, and left it untranslated: _sputnik_. The suggestion was soon widely adopted and Sputnik became the Western name of the Soviet satellite. For several decades those writing about it in English continued to show awareness that Sputnik was an informal term for the spacecraft. For example, after the Soviet Union launched a second artificial satellite, an article in _Scientific American_ discussed tracking them and included a graph with lines labeled Sputnik I and Sputnik II, but in the body of the article they were referred using translations of the Russian designations: The First Satellite and The Second Satellite. "Sputnik" never attained the status of a proper name in Russian and probably never will since calling a _sputnik_ "Sputnik" would be redundant and therefor silly. The Russian-language press continues to refer to Sputnik I simply as "the first artificial _sputnik_ of Earth" (note the lower case) and to report on the launch of American _sputniki_. So why do English speakers now believe that the Soviets named their satellite "Sputnik"? This misunderstanding seems to arise from the oft-repeated statement that _sputnik_ means "fellow traveler". This is taken to mean that the word _sputnik_ was chosen as a fanciful name for the space craft. In reality what is being explained is the origin of the Russian word for astronomical satellites. The fanciful comparison was coined hundreds of years earlier to talk about moons. This confusion can be traced to an article in the _New York Times_ of October 6, 1957 entitled _Soviet 'Sputnik' Means A Traveler's Traveler_. The English word "satellite" has a similar origin. It once meant an attendant of a person of importance. Imagine the confusion which could have occurred if the US had launched the first artificial satellite and neglected to name it. It is only a slight stretch to imagine the Soviet press writing, "the Americans named their sputnik _Satellite_ which means 'an entourage member'." In conclusion, the belief that the Soviets named their satellite Sputnik after the Russian word for "fellow traveler" is false even though that is the literal meaning of the word _sputnik_. They called it "sputnik" because that is the normal Russian word for satellite. Naming it "Sputnik" would have been silly. When they failed to name it at all the Western press stepped in and adopted the Russian word for satellite as its proper name in English.
+</div>
+
+Because the concept of an "artificial satellite" had been purely theoretical
+and relatively obscure, there apparently was not yet a well-established term
+for such a device. For several days the Western press struggled with what to
+call it. In the first few days _Pravda's_ wordy "an artificial satellite of
+Earth" was used, but it was also called "the device" and even "the Red moon".
+In Washington, a journalist named [can't find the reference] was asked for
+suggestions for a less awkward description. He took the phrase _искусcтвеyный
+спутник Земли_ (artificial satellite of Earth) from _Pravda_ , kept only the
+key word, and left it untranslated: _sputnik_. The suggestion was soon widely
+adopted and Sputnik became the Western name of the Soviet satellite.
+
+For several decades those writing about it in English continued to show awareness
+that Sputnik was an informal term for the spacecraft. For example, after the
+Soviet Union launched a second artificial satellite, an article in _Scientific
+American_ discussed tracking them and included a graph with lines labeled
+Sputnik I and Sputnik II, but in the body of the article they were referred
+using translations of the Russian designations: The First Satellite and The
+Second Satellite.
+
+"Sputnik" never attained the status of a proper name in
+Russian and probably never will since calling a _sputnik_ "Sputnik" would be
+redundant and therefor silly. The Russian-language press continues to refer to
+Sputnik I simply as "the first artificial _sputnik_ of Earth" (note the lower
+case) and to report on the launch of American _sputniki_.
+
+So why do English
+speakers now believe that the Soviets named their satellite "Sputnik"? This
+misunderstanding seems to arise from the oft-repeated statement that _sputnik_
+means "fellow traveler". This is taken to mean that the word _sputnik_ was
+chosen as a fanciful name for the space craft. In reality what is being
+explained is the origin of the Russian word for astronomical satellites. The
+fanciful comparison was coined hundreds of years earlier to talk about moons.
+This confusion can be traced to an article in the _New York Times_ of October
+6, 1957 entitled _Soviet 'Sputnik' Means A Traveler's Traveler_.
+
+The English
+word "satellite" has a similar origin. It once meant an attendant of a person
+of importance. Imagine the confusion which could have occurred if the US had
+launched the first artificial satellite and neglected to name it. It is only a
+slight stretch to imagine the Soviet press writing, "the Americans named their
+sputnik _Satellite_ which means 'an entourage member'."
+
+In conclusion, the
+belief that the Soviets named their satellite Sputnik after the Russian word
+for "fellow traveler" is false even though that is the literal meaning of the
+word _sputnik_. They called it "sputnik" because that is the normal Russian
+word for satellite. Naming it "Sputnik" would have been silly. When they failed
+to name it at all the Western press stepped in and adopted the Russian word for
+satellite as its proper name in English.
 
 ## Sources
 

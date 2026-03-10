@@ -10,7 +10,7 @@ BODY {
 	flex-direction: column;
 	background-color: white;
 	color: black;
-	font-size: 12pt;
+	font-size: 14pt;
 	}
 DIV.scroller {
 	flex: 1 1 auto;
@@ -32,11 +32,11 @@ DIV.breadcrumbs {
 DIV.breadcrumbs A {
 	color: inherit;
 	}
-H1 {
+HEADER H1 {
 	font-size: 150%;
 	padding: .4em;
 	}
-H1 A, FOOTER A {
+HEADER A, FOOTER A {
 	text-decoration: inherit;
 	color: inherit;
 	}
@@ -73,7 +73,10 @@ H1, H2, H3, H4 {
 H2, H3 {
 	font-family: sans-serif;
 	}
-H2 {		/* article title */
+H1 {
+	font-size: 200%;
+	}
+H2 {
 	font-size: 120%;
 	margin-bottom: .2em;
 	}
