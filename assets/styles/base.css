@@ -157,6 +157,7 @@ FIGURE.float.right {
 	}
 FIGURE.float FIGCAPTION {
 	font-family: sans-serif;
+	font-size: 80%;
 	}
 
 /* Syntax highlighting */
