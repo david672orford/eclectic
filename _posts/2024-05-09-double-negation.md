@@ -12,7 +12,10 @@ categories:
 - language
 tags: []
 ---
-[![](/files/2024/05/double-negation-300x225.png)](/files/2024/05/double-negation.png)
+{% include figure.html
+	file="2024/05/double-negation.png"
+	width=300 height=225
+%}
 
 A few years ago a user on Stack Exchange asked why the construction used in
 this English sentence is not considered a double negative.
@@ -24,6 +27,8 @@ double negative. This warning refers to dialect constructions such as in this
 sentence:
 
 > If I don't use no microphone, no one will hear me.
+
+<!--more-->
 
 Notice that in the first clause both the verb and its direct object are
 negated. This is negative concord because the two negatives are **intended to

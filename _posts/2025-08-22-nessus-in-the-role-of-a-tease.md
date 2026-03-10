@@ -1,17 +1,17 @@
 ---
-layout: post
-permalink: nessus-in-the-role-of-a-tease/
 title: Nessus in the Role of a Tease
 description: None
+permalink: nessus-in-the-role-of-a-tease/
 date: 2025-08-22 13:04:11 -0000
 last_modified_at: 2025-09-11 19:44:36 -0000
-publish: true
-pin: false
 categories:
-- Uncategorized
+- computing
 tags: []
 ---
-[![](/files/2025/08/Nessus-in-the-role-of-a-tease.png)](/files/2025/08/Nessus-in-the-role-of-a-tease.png)
+{% include figure.html
+	file="2025/08/Nessus-in-the-role-of-a-tease.png"
+	width=1024 height=1536
+%}
 
 Nessus is a security scanner sold by a company called Tenable. It runs through
 a customer's network checking to see whether the computers have any known
@@ -22,6 +22,8 @@ sometimes the test plugins do not have access to full information and have to
 make assumptions which lead to false positives. But sometimes Tenable writes
 the test procedure incorrectly. This has happened three times in the last three
 weeks.
+
+<!--more-->
 
 ## The Insecurity of Non-Existent Things
 

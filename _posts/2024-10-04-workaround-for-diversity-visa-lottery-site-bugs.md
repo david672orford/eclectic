@@ -11,8 +11,11 @@ categories:
 - dns
 tags: []
 ---
-[caption id="attachment_418" align="alignright" width="300"][![](/files/2024/05/mistake-3085712_1280-300x203.jpg)](/files/2024/05/mistake-3085712_1280.jpg) Image by Mohamed Hassan from Pixabay[/caption]
-
+{% include figure.html
+	file="2024/05/mistake-3085712_1280.jpg"
+	caption="Image by Mohamed Hassan from Pixabay"
+	width=300 height=203
+%}
 How to get around Connection Reset on DV Lottery application:
 
 Increase the JPEG

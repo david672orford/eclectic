@@ -11,13 +11,19 @@ categories:
 - computing
 tags: []
 ---
-[![Button labeled "Following" with drop-down menu open](/files/2023/02/Zoom-Unfollow-300x222.png)](/files/2023/02/Zoom-Unfollow.png)
+{% include figure.html
+	file="2023/02/Zoom-Unfollow.png"
+	alt='Button labeled "Following" with drop-down menu open'
+	width=300 height=222
+%}
 
 For a long time now Zoom has been sending release notes to the e-mail account I
 used to register. I didn't want this and so I scrolled to the bottom looking
 for a way to unsubscribe, but found nothing. I also searched the web where I
 found information on unsubscribing from meeting notifications, but nothing
 about the release note e-mails. Today I finally figured out how to unsubscribe.
+
+<!--more-->
 
 At the top of the message there is the phrase:
 

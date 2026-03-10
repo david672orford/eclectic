@@ -18,6 +18,8 @@ tired old PBX with an open source system and whether we had any experience with
 Asterisk. Here is the answer I wrote, based on our experience here at Trinity
 College.
 
+<!--more-->
+
 The design of all VoIP systems is much newer than that of your "tired
 old PBX". No matter what you pick to replace it, it will probably will not be
 as reliable as your old PBX. (I am assuming that you want to replace your PBX

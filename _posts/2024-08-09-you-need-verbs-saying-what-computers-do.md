@@ -13,7 +13,11 @@ categories:
 - society
 tags: []
 ---
-[caption id="attachment_416" align="alignright" width="300"][![](/files/2024/05/manual-3684460_1920-300x201.jpg)](/files/2024/05/manual-3684460_1920.jpg) Image by Mohamed Hassan from Pixabay[/caption]
+{% include figure.html
+	file="2024/05/manual-3684460_1920.jpg"
+	caption="Image by Mohamed Hassan from Pixabay"
+	width=300 height=201
+%}
 
 Bad documentation says what things are. Good documentation says what they do.
 
@@ -25,11 +29,12 @@ other purpose than to demonstrate education and get into a good college. Since
 this was in the 1980's and conforming to arbitrary societal rules were seen as
 uncool and silly, grammar was uncool and silly.
 
-What they did not tell us was
-that not only do words have meaning, but gramatical constructs have meaning too
-and sometimes if you use the wrong one you will not be understood. This is not
-always a problem in the situations of daily life since most people know what
-you meant to say.
+What they did not tell us was that not only do words have meaning, but
+gramatical constructs have meaning too and sometimes if you use the wrong one
+you will not be understood. This is not always a problem in the situations of
+daily life since most people know what you meant to say.
+
+<!--more-->
 
 But computers are complicated and very flexible. The way
 software works can be difficult to explain and not entirely obvious. If you are

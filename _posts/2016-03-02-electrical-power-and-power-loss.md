@@ -1,22 +1,20 @@
 ---
-layout: post
-permalink: electrical-power-and-power-loss/
 title: Electrical Power and Power Loss
 description: None
+permalink: electrical-power-and-power-loss/
 date: 2016-03-02 16:18:50 -0000
 last_modified_at: 2021-02-08 15:58:27 -0000
-publish: true
-pin: false
-image:
-  path: /files/2016/03/voltage.png
-  alt: Water tank with closed outlet represents voltage. Tank with open outlet represents
-    current. Narrow pipe represents more resistance than wide pipe.
 categories:
 - electricity
 - explainer
 tags: []
 ---
-[![](/files/2016/03/voltage-300x104.png)](/files/2016/03/voltage.png)
+{% include figure.html
+	file="2016/03/voltage.png"
+  	alt="Water tank with closed outlet represents voltage. Tank with open outlet represents
+    current. Narrow pipe represents more resistance than wide pipe."
+	width=300 height=104
+%}
 
 ## Basic Electrical Units
 
@@ -25,6 +23,8 @@ force which a power source (such as a battery) applies to a connected device in
 order to push electrons through it. Electrical potential (voltage) is
 comperable to the presure which a pump applies to a plumbing system in order to
 push water through the pipes.
+
+<!--more-->
 
 An ampere is a unit describing the volume of an electrical current. (One ampere
 is equal to approximately 6,241,000,000,000,000,000 electrons passing a barrier
@@ -70,9 +70,11 @@ the drawn current (in amperes):
   
      watts = volts * amps
   
-For example, if the supplied voltage is 48 and the current is half an ampere, then the power drawn is 24 watts.
+For example, if the supplied voltage is 48 and the current is half an ampere,
+then the power drawn is 24 watts.
 
-This formula can be transformed algebraically so that we can find any of the three parameters if we know the other two:
+This formula can be transformed algebraically so that we can find any of the
+three parameters if we know the other two:
   
                watts
      volts = ---------------
@@ -108,8 +110,6 @@ the three parameters if we know the other two:
   
       volts = amps * ohms
     
-    
-    
               volts
       ohms = -----------
               amps
@@ -134,8 +134,6 @@ current will be:
 But what if we connect a voltmeter across one of the resistors? Ohm's law can answer this question too:
   
        1 ohm * 4 amps = 4 volts
-    
-    
     
        2 ohms * 4 amps = 8 volts
   

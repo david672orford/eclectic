@@ -1,21 +1,20 @@
 ---
-layout: post
 permalink: darwin-and-pasteur/
 title: Darwin and Pasteur
 description: None
 date: 2019-02-12 19:38:08 -0000
 last_modified_at: 2021-02-06 19:49:18 -0000
-publish: true
-pin: false
-image:
-  path: /files/2019/02/William_T._Sedgwick.jpg
-  alt: Portrait of man with glasses and mustache
 categories:
 - evolution
 - science
 tags: []
 ---
-[caption id="attachment_137" align="alignright" width="228"][![Charles Darwin seated](/files/2019/02/Charles_Darwin_seated_crop-228x300.jpg)](/files/2019/02/Charles_Darwin_seated_crop.jpg) Charles Darwin[/caption]
+{% include figure.html
+	file="2019/02/Charles_Darwin_seated_crop.jpg"
+	caption="Charles Darwin"
+	alt="Charles Darwin seated"
+	width=228 height=300
+%}
 
 On November 24th, 1859, the naturalist Charles Darwin published a book entitled
 [_On the Origin of Species by Means of Natural Selection, or the Preservation
@@ -33,6 +32,8 @@ overall view thus:
 > but as the lineal descendants of some few beings which lived long before the
 > first bed of the Silurian system was deposited, they seem to me to become
 > ennobled.
+
+<!--more-->
 
 To his thinking, those who supposed that God would create species deliberately
 were imagining him in the image of man:
@@ -75,10 +76,14 @@ of Huxley in Britain and Haeckel in Germany the theory of evolution gained
 converts rapidly. True, some of the most prominent scientists of the day were
 skeptical or outright dismissive of the idea that blind natural forces wielded
 such creative power, but by 1896 Joseph LeConte of the University of California
-could write: [caption id="attachment_138" align="alignright" width="207"][![Man
-with beard
-seated](/files/2019/02/Joseph_LeConte_1823-1901-207x300.jpg)](/files/2019/02/Joseph_LeConte_1823-1901.jpg)
-Joseph LeConte[/caption]
+could write:
+
+{% include figure.html
+	width=207 height=300
+	alt="Man with beard seated"
+	file="2019/02/Joseph_LeConte_1823-1901.jpg"
+	caption="Joseph LeConte"
+%}
 
 > We are confident that evolution is _absolutely certain_. Not, indeed,
 > evolution as a special theory--Lamarckian, Darwinian, Spencerian--for these
@@ -99,10 +104,14 @@ The importance of Darwin as an influential thinker is unquestioned.
 Whether such thinking led scientific investigation by the True Road is far less
 certain. The question of its contribution to human health and happiness is best
 avoided lest we meet the gaze of the victims of the Arian Master Race,
-Eugenics, and Scientific Racism. [caption id="attachment_140"
-align="alignright" width="206"][![Portrait of man with glasses and
-mustache](/files/2019/02/William_T._Sedgwick-206x300.jpg)](/files/2019/02/William_T._Sedgwick.jpg)
-William T. Sedgwick[/caption]
+Eugenics, and Scientific Racism.
+
+{% include figure.html
+	alt="Portrait of man with glasses and mustache"
+	file="2019/02/William_T._Sedgwick.jpg"
+	caption="William T. Sedgwick"
+	width=206 height=300
+%}
 
 Today is February 12, Darwin's birthday which
 there is effort to promote as International Darwin Day. It is appropriate on
@@ -117,7 +126,12 @@ posthumously in _Science_ in 1923:
 > confusion and ignorance concerning disease, and eagerly embraced the germ
 > theory.
 
-[caption id="attachment_139" align="alignright" width="218"][![Louis > Pasteur > seated](/files/2019/02/Louis_Pasteur_foto_av_Paul_Nadar_Crisco_edit-218x300.jpg)](/files/2019/02/Louis_Pasteur_foto_av_Paul_Nadar_Crisco_edit.jpg) > Louis Pasteur[/caption]
+{% include figure.html
+	alt="Louis Pasteur seated"
+	width=218 height=300
+	file="2019/02/Louis_Pasteur_foto_av_Paul_Nadar_Crisco_edit.jpg"
+	caption="Louis Pasteur"
+%}
 
 > The fame of Darwin has grown greater with the passing
 > years. Darwinism has already become merged and may one day become submerged

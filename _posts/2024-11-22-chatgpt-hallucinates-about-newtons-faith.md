@@ -1,17 +1,19 @@
 ---
-layout: post
 permalink: chatgpt-hallucinates-about-newtons-faith/
 title: "ChatGPT Hallucinates about Newton\u2019s Faith"
 description: None
 date: 2024-11-22 15:36:59 -0000
 last_modified_at: 2025-09-11 19:43:48 -0000
-publish: true
-pin: false
 categories:
 - Uncategorized
 tags: []
 ---
-[caption id="attachment_473" align="alignright" width="186"][![Portrait of Isaac Newton](/files/2024/11/Isaac_Newton_1_lol-186x300.jpg)](/files/2024/11/Isaac_Newton_1_lol.jpg) Isaac Newton[/caption]
+{% include figure.html
+	alt="Portrait of Isaac Newton"
+	file="2024/11/Isaac_Newton_1_lol.jpg"
+	caption="Isaac Newton"
+	width=186 height=300
+%}
 
 We can learn much about how ChatGPT works from a single question. This question
 was posed to ChatGPT 3.5 on February 13, 2023.
@@ -19,6 +21,8 @@ was posed to ChatGPT 3.5 on February 13, 2023.
 ## Question
 
 Why didn't Newton accept the Trinity?
+
+<!--more-->
 
 ## ChatGPT’s Answer
 

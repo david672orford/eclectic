@@ -1,19 +1,17 @@
 ---
-layout: post
 permalink: newtons-views-on-science-and-theology/
 title: Newton's Views on Science and Theology
 description: None
 date: 2019-02-05 17:47:03 -0000
 last_modified_at: 2021-02-06 19:48:36 -0000
-publish: true
-pin: false
-image:
-  path: /files/2019/02/GodfreyKneller-IsaacNewton-1689.jpg
 categories:
 - science
 tags: []
 ---
-[![](/files/2019/02/GodfreyKneller-IsaacNewton-1689-218x300.jpg)](/files/2019/02/GodfreyKneller-IsaacNewton-1689.jpg)
+{% include figure.html
+	file="2019/02/GodfreyKneller-IsaacNewton-1689.jpg"
+	width=218 height=300
+%}
 
 For the second edition of his _Principia_ in 1713 Newton wrote an essay known
 as the _General Scolium_ (introduction) in which he defends his views on
@@ -42,6 +40,8 @@ there is a supreme God who exists by necessity and has always existed. He sees
 the supreme God as a non corporal being, without a body or physical location.
 If this concept is impossible to understand, it is only because it is totally
 alien to human experience.
+
+<!--more-->
 
 He then takes a swipe at Materialism: "Blind
 metaphysical necessity, which is certainly the same always and ever where,

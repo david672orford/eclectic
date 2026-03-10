@@ -23,6 +23,8 @@ deliberately small enough that nothing which would put a strain in the
 mechanism could be inserted in which case the machine would be of little
 practical value.
 
+<!--more-->
+
 But I had a large and growing pile of brush and tree limbs
 and no way to remove it. So I ordered one of these things figuring that even if
 it only lasted one season, it would be worth it. I bought the Sun Joe CJ603E,

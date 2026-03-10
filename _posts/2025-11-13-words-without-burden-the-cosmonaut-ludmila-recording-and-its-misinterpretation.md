@@ -1,4 +1,5 @@
 ---
+permalink: words-without-burden-the-cosmonaut-ludmila-recording-and-its-misinterpretation/
 style: >
   .P11 {
     font-style: italic;
@@ -26,12 +27,12 @@ style: >
   OL { padding-left: 2rem; }
   DIV.note-citation { width: 3.5rem; flex-shrink: 0 }
   DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
-excerpt_separator: <!--more-->
 ---
-<figure class="float-right">
-	<img src="/files/2024/10/Judica-cordiglia-brothers.jpg">
-	<figcaption>The Judica-Cordiglia brothers, Achille (1933–2015) and Giovanni Battista (1939–2024), radio amateurs of Turin, Italy.</figcaption>
-</figure>
+{% include figure.html file="2024/10/Judica-cordiglia-brothers.jpg"
+	caption="The Judica-Cordiglia brothers, Achille (1933–2015) and Giovanni Battista (1939–2024), radio amateurs of Turin, Italy."
+	alt="The two brothers bend over their radio equipment"
+	width=600 height=400
+	%}
 <p class="P11" lang="en">The so-called Cosmonaut Ludmila recording is of a series of radio transmissions intercepted by the Judica-Cordiglia brothers in May of 1961 on a channel which they believed was used by the Soviet space program. They interpreted the utterances as a distress call from a Soviet female astronaut reporting an onboard fire. Since no corresponding Soviet space mission has ever been identified, it is now widely supposed that the recording is a clumsy hoax. We carefully transcribe the recording and find that it contains no references at all to space flight, only nondescript utterances interspersed with childish patter and frivolous remarks about the heat in the radio operator’s workspace.</p>
 <!--more-->
 <p class="Text_20_body" lang="en"><span class="T1" lang="en">During the 1960’s two Italian radio amateurs, the brothers brothers Achille and Gian Battista Judica-Cordiglia, monitored radio transmissions which they believed were connected with Soviet space missions. They did this using home-built antennas and surplus US military gear. They also recruited other radio amateurs to form a worldwide listening network recruited. In several cases they believed that the transmissions they intercepted indicated that Soviet astronauts</span><span class="T1" lang="en"><a class="note-citation" href="#ftn1">i</a></span><span class="T1" lang="en"> had died due to accidents during flight.</span></p>

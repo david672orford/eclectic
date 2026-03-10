@@ -28,16 +28,16 @@ one of the discoverers of the skeleton:
 
 [![Creature with crocodile like snout,
 body of a skinny elephant, and long tail dives to attack snark lurking on
-bottom](/files/2021/09/walking-whale-1.jpg)](/files/2021/09/walking-whale-1.jpg)
+bottom](/files/2021/09/walking-whale-1.jpg)](/files/2021/09/walking-whale-1.jpg){: .wide}
 
 All of the news stories I read leave the reader with the distinct impression
-that the skeleton as found actually has four legs.  The only hint this might
+that the skeleton as found actually has four legs.<!--more--> The only hint this might
 not be strictly true come from this photograph which appears in some of the
 news stories:
 
 [![Three men sit around table on which bones and bone fragments
 are laid
-out](/files/2021/09/walking-whale-2.jpeg)](/files/2021/09/walking-whale-2.jpeg)
+out](/files/2021/09/walking-whale-2.jpeg)](/files/2021/09/walking-whale-2.jpeg){: .wide}
 
 Hmmm. These don't look like legs. But maybe the bones include parts where legs
 were clearly once attached. Let's go to their paper published in the
@@ -45,7 +45,7 @@ Proceedings of the Royal Society. There we find this helpful diagram:
 
 [![Photographs of bones surround diagram which their positions in as most as
 most of the skull and lower jaw two short segments of the backbone, and a
-rib](/files/2021/09/walking-whale-3.gif)](/files/2021/09/walking-whale-3.gif)
+rib](/files/2021/09/walking-whale-3.gif)](/files/2021/09/walking-whale-3.gif){: .wide}
 
 The bones drawn in red in the drawing in the center are what they found. As you
 can see, there are not only no legs, there are no hips, and no shoulders
@@ -66,7 +66,7 @@ this diagram:
 [![The creature is shown a third of the way down an evolutionary
 sequence starting with pakicetus ambulocetus \(which looks vaguely like a dog\)
 and ends with modern
-whales](/files/2021/09/walking-whale-4.gif)](/files/2021/09/walking-whale-4.gif)
+whales](/files/2021/09/walking-whale-4.gif)](/files/2021/09/walking-whale-4.gif){: .wide}
 
 Clearly the researchers' conjecture about the form of the missing limbs is
 heavily influenced by a desire to identify the creature as a proto-whale and

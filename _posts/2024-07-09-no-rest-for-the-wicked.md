@@ -12,10 +12,16 @@ categories:
 - writing style
 tags: []
 ---
-[caption id="attachment_414" align="alignright" width="300"][![](/files/2024/05/angry-3233158_1280-300x198.jpg)](/files/2024/05/angry-3233158_1280.jpg) Image by Mohamed Hassan from Pixabay[/caption]
+{% include figure.html
+	file="2024/05/angry-3233158_1280.jpg"
+	caption="Image by Mohamed Hassan from Pixabay"
+	width=300 height=198
+%}
 
 The phrase "no rest for the wicked" is an amalgam of two passages in the Bible
-book of Isaiah.  Chapter 48 verse 22 in the King James Version:
+book of Isaiah.
+
+Chapter 48 verse 22 in the King James Version:
 
 > There is no peace, saith the LORD, unto the wicked.
 
@@ -24,6 +30,8 @@ Chapter 57 verses 20 and 21 also in the King James Version:
 > 20 But the wicked are like the troubled sea, when it cannot rest, whose
 > waters cast up mire and dirt. 21 There is no peace, saith my God, to the
 > wicked.
+
+<!--more-->
 
 The assertion at Dictionary.com that the verse refers to eternal torment is not
 supported by the context or by any Bible commentary of which I am aware. The

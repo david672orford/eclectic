@@ -1,18 +1,17 @@
 ---
-layout: post
-permalink: dracos-policies-were-draconian/
 title: Draco's Policies were Draconian
 description: None
+permalink: dracos-policies-were-draconian/
 date: 2016-01-14 18:35:47 -0000
 last_modified_at: 2016-01-14 22:10:44 -0000
-publish: true
-pin: false
 categories:
 - language
 tags: []
 ---
 Have you every wondered why we call a harsh policy "draconian"? This is one of
 those words which comes from the name of a famous person.
+
+<!--more-->
 
 Draco or Dracon was a Athenian politician. He was one of those who worked to
 codify pre-existing Athenian traditional law. His work appeared around 621

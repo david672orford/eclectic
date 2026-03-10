@@ -17,14 +17,19 @@ categories:
 - space
 tags: []
 ---
-[![Postage stamp shows Earth in orbit around Sun with a man-made object in Earth orbit.](/files/2020/03/1967_CPA_3496-241x300.jpg)](/files/2020/03/1967_CPA_3496.jpg)
-
+{% include figure.html
+	alt="Postage stamp shows Earth in orbit around Sun with a man-made object in Earth orbit."
+	file="2020/03/1967_CPA_3496.jpg"
+	width=241 height=300
+%}
 On October 5, 1957, the Soviet newspaper _Pravda_ announced that the Soviet
 Union had launched a 184 pound object into Earth orbit. That first artificial
 satellite has since come to be known in the English-speaking world as Sputnik.
 In the West it is now widely assumed that the Soviets chose the word _sputnik_
 as the name for their satellite because it means "fellow traveler." This is not
 what actually happened.
+
+<!--more-->
 
 The world first learned of the launch from this brief
 report in _Pravda_. Though the story was printed on the front page above the
@@ -51,7 +56,7 @@ primarily meant a natural satellites such the moons of Earth or Jupiter. The
 situation was similar in Russian. That is why _Pravda_ had to spell out what
 was meant writing that this was an "artificial satellite of Earth".
 
-<div style="width: 2.5in; float: right">
+<aside>
 
 ### The Russian Word
 
@@ -72,7 +77,7 @@ Observations Made Regarding Same)_ by German mathematician, geographer and
 astronomer [Gottfried
 Heinsius](https://en.wikipedia.org/wiki/Gottfried_Heinsius).
 
-</div>
+</aside>
 
 Because the concept of an "artificial satellite" had been purely theoretical
 and relatively obscure, there apparently was not yet a well-established term

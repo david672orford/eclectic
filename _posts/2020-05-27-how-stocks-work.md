@@ -1,20 +1,18 @@
 ---
-layout: post
 permalink: how-stocks-work/
 title: How Stocks Work
 description: None
 date: 2020-05-27 16:44:52 -0000
 last_modified_at: 2021-02-06 19:48:07 -0000
-publish: true
-pin: false
-image:
-  path: /files/2020/05/Wall_Street_NY_1867.jpg
 categories:
 - explainer
 tags: []
 ---
-[caption id="attachment_239" align="alignright" width="300"][![](/files/2020/05/Wall_Street_NY_1867-300x192.jpg)](/files/2020/05/Wall_Street_NY_1867.jpg) Wall Street, NY in 1867[/caption]
-
+{% include figure.html
+	file="2020/05/Wall_Street_NY_1867.jpg"
+	caption="Wall Street, NY in 1867"
+	width=300 height=192
+%}
 For many years nobody could explain to me the rational basis of the stock
 market. They told me that prices were controlled by the law of supply and
 demand. Investors expected the the price of shares in successful companies to
@@ -22,6 +20,8 @@ rise and so they bought them. This demand then drove the price up. Those who
 got in early enough would make money when they later sold their appreciated
 shares. This is all true, but it did not answer my question: why do shares have
 value in the first place.
+
+<!--more-->
 
 I spent a long time struggling with this problem. I
 thought surely the answer was that the company undertook to reward the

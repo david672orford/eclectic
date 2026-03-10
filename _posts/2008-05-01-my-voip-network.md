@@ -23,6 +23,8 @@ When one of the phones is called, the server which receives the call uses DUNDi
 to determine with which server the phone is registered and routes the call to
 that server over IAX2.
 
+<!--more-->
+
 These three main Asterisk servers have trunks to the PSTN. They also
 collect call detail records which they share with one another.
 

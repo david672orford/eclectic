@@ -13,14 +13,18 @@ categories:
 - system administration
 tags: []
 ---
-[![](/files/2019/08/signature-300x225.png)](/files/2019/08/signature.png)
+{% include figure.html
+	file="2019/08/signature.png"
+	width=300 height=225
+%}
 
 When SSL is enable in Webmin it creates a self-signed certificate which is
 stored in the file /etc/webmin/miniserv.pem. I recently upgraded a server from
 Debian 7 to Debian 9 and discovered that Webmin would no longer start.
 
-This is
-what I saw when I tried to start it:
+<!--more-->
+
+This is what I saw when I tried to start it:
 
     Starting Webmin server in /usr/share/webmin
     Failed to open SSL cert at /usr/share/webmin/miniserv.pl line 4201.

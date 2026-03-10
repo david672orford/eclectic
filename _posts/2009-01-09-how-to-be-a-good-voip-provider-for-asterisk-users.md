@@ -18,6 +18,8 @@ simply offering the best balance of price and reliability. Usability is also
 very important. Here are some things which make for a service more convenient
 for Asterisk users.
 
+<!--more-->
+
 ## Provide a Simple Dialplan
 
 It is all right to allow your

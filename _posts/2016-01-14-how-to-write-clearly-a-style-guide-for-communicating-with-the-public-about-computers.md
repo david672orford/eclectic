@@ -1,12 +1,9 @@
 ---
-layout: post
-permalink: how-to-write-clearly-a-style-guide-for-communicating-with-the-public-about-computers/
 title: Communicating Clearly About Computing
 description: None
+permalink: how-to-write-clearly-a-style-guide-for-communicating-with-the-public-about-computers/
 date: 2016-01-14 21:43:19 -0000
 last_modified_at: 2021-06-08 19:55:30 -0000
-publish: true
-pin: false
 categories:
 - english
 - writing style
@@ -17,6 +14,8 @@ people who are less familiar with computers than we are. It should be our goal
 to speak and write as clearly as possible. To do that we must avoid jargon,
 slang and expressions which are easily misunderstood. We should not write to be
 understood. We should write so as not to be misunderstood.
+
+<!--more-->
 
 Misunderstandings
 can arise in a number of ways. One is that our listeners and readers may be
@@ -58,9 +57,8 @@ first time they read it, or will they have to read it several times each time
 understanding a little more? If the meaning of a term is not clear the first
 time through, you should replace it or add additional clarifying words.
 
-The
-result may at first seem stilted and "uncool". But, for your reader, it will be
-clear and understandable.
+The result may at first seem stilted and "uncool". But, for your reader, it
+will be clear and understandable.
 
 ## Words to be Used with Care
 
@@ -84,58 +82,56 @@ recent mistakes have "compromised our reputation for dependability". It would
 be incorrect to say "the new worm has led to an increase in compromises" when
 we mean that it "has led to an increase in security breaches". 
 
-**desktop**
-first and foremost this word means the upper surface of a table with a chair
-behind it. If you use it to mean the desktop on a computer screen, you should
-make that clear. Do not use the word "desktop" to mean "a desktop computer".
-That would be too confusing. 
+**desktop** first and foremost this word means the upper surface of a table
+with a chair behind it. If you use it to mean the desktop on a computer screen,
+you should make that clear. Do not use the word "desktop" to mean "a desktop
+computer".  That would be too confusing. 
 
-**icon** a religious image, typically painted on a
-small wooden panel. Make sure to establish that you are talking about a
-graphical user interface before using this word. 
+**icon** a religious image, typically painted on a small wooden panel. Make
+sure to establish that you are talking about a graphical user interface before
+using this word. 
 
-**install** this word is a
-transitive verb which means it takes a direct object. It is not a noun, so we
-should not write "the computing center will be doing hundreds of installs
-during the summer break". Instead we should say "the computing center will be
-installing hundreds of new computers during the summer break." Since it is
-transitive would not write "Please wait while the program installs." since one
-might reasonably ask "while it installs what?" Instead we should write "Please
-wait while the program is being installed." 
+**install** this word is a transitive verb which means it takes a direct
+object. It is not a noun, so we should not write "the computing center will be
+doing hundreds of installs during the summer break". Instead we should say "the
+computing center will be installing hundreds of new computers during the summer
+break." Since it is transitive would not write "Please wait while the program
+installs." since one might reasonably ask "while it installs what?" Instead we
+should write "Please wait while the program is being installed." 
 
-**issue** this word means "that
-which comes out", "the final solution to a problem", or "a topic for dispute or
-discussion". It does not mean a defect or problem, at least not until people
-begin arguing about it. Do not say "the upgraded software will be installed as
-soon as the remaining issues are resolved" since that could mean that we first
-have to settle arguments about it. Instead say "as soon as the remaining
-technical problems are solved". Never use the phrase "undiscovered issues"
-since it is self-contradictory. Say "undiscovered defects". 
+**issue** this word means "that which comes out", "the final solution to a
+problem", or "a topic for dispute or discussion". It does not mean a defect or
+problem, at least not until people begin arguing about it. Do not say "the
+upgraded software will be installed as soon as the remaining issues are
+resolved" since that could mean that we first have to settle arguments about
+it. Instead say "as soon as the remaining technical problems are solved". Never
+use the phrase "undiscovered issues" since it is self-contradictory. Say
+"undiscovered defects". 
 
-**PC** this is a
-acronym for "personal computer". It means any computer intended for use by one
-worker. Be aware that many people mistakenly believe that it means "an IBM PC
-compatible personal computer". Rather than saying "Macs and PCs" say "Macintosh
-and Microsoft Windows computers". 
+**PC** this is a acronym for "personal computer". It means any computer
+intended for use by one worker. Be aware that many people mistakenly believe
+that it means "an IBM PC compatible personal computer". Rather than saying
+"Macs and PCs" say "Macintosh and Microsoft Windows computers". 
 
-**program** common meanings include "a brief,
-usually written, summary of the things to be presented and the people to
-participate". It also means "a plan or system under which action is taken to
-reach a goal". Be sure to establish proper context before using this word to
-mean "a set of coded instructions for a computer". 
-**system** keep in mind that
-this word means "a group of items which act as a whole" or "an organized way of
-doing things". If you use it all by itself to mean a computer, you will confuse
-people. If you must use the word system, call it "a computer system".
+**program** common meanings include "a brief, usually written, summary of the
+things to be presented and the people to participate". It also means "a plan or
+system under which action is taken to reach a goal". Be sure to establish
+proper context before using this word to mean "a set of coded instructions for
+a computer". 
+
+**system** keep in mind that this word means "a group of items which act as a
+whole" or "an organized way of doing things". If you use it all by itself to
+mean a computer, you will confuse people. If you must use the word system, call
+it "a computer system".
 
 **upgrade** be aware that this word can be ambiguous. To refer to "upgrading
 software" is probably OK. To say "the computers will be upgraded" when you mean
 that they will be replaced with newer ones is unnecessarily vague. 
 
-**Windows**
-this term is often used as shorthand for Microsoft Windows. Generally, the
-terms Microsoft Windows and MS-Windows are preferable. At least the first
-reference in any document should use a more complete form of the term.
+**Windows** this term is often used as shorthand for Microsoft Windows.
+Generally, the terms Microsoft Windows and MS-Windows are preferable. At least
+the first reference in any document should use a more complete form of the
+term.
 
 **workstation** the primary word is "a place where a worker stands (or sits)
 while working". In computing it means an unusually powerful computer or

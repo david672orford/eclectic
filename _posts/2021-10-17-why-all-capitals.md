@@ -11,8 +11,13 @@ categories:
 - computing
 tags: []
 ---
-[caption id="attachment_320" align="alignright" width="300"][![A news report in all upper case on the platen of a Model 15 Teletype](/files/2021/09/Teletype_Model_15_printing_news_report-300x225.jpg)](/files/2021/09/Teletype_Model_15_printing_news_report.jpg) A Teletype Model 15 teleprinter  
-Attribution: John Nagle at English Wikipedia, CC BY-SA 3.0 , via Wikimedia Commons[/caption]
+{% include figure.html
+	alt="A news report in all upper case on the platen of a Model 15 Teletype"
+	file="2021/09/Teletype_Model_15_printing_news_report.jpg"
+ 	caption="A Teletype Model 15 teleprinter  
+		Attribution: John Nagle at English Wikipedia, CC BY-SA 3.0 , via Wikimedia Commons"
+	width=300 height=225
+%}
 
 Q: Why do some users complete forms all in capital letters?
 
@@ -23,6 +28,8 @@ standard US military teleprinter of World War II was the Teletype Model 15
 entire generation to official communications and reports typed in all upper
 case. This 'official' style was then duplicated by users of typewriters by
 engaging the Caps Lock toggle key.
+
+<!--more-->
 
 Up through the 1970's computers were not
 used for preparing business correspondence, plans, or reports. They were used

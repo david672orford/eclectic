@@ -5,16 +5,15 @@ title: Radio Shack brand may return online
 description: None
 date: 2020-12-12 14:41:28 -0000
 last_modified_at: 2021-09-17 12:43:57 -0000
-publish: true
-pin: false
-image:
-  path: /files/2020/12/DoublePoleDoubleThrowSwitch.png
 categories:
 - electricity
 - society
 tags: []
 ---
-[![](/files/2020/12/DoublePoleDoubleThrowSwitch-300x147.png)](/files/2020/12/DoublePoleDoubleThrowSwitch.png)
+{% include figure.html
+	file="2020/12/DoublePoleDoubleThrowSwitch.png"
+	width=300 height=147
+%}
 
 The Radio Shack stores played a big role in my childhood. My first memory of
 Radio Shack is from around 1975 when I was six. I went with my dad when he
@@ -24,15 +23,16 @@ take them in to Radio Shack to use the tab tester. Sometimes there would be a
 line for the tester. If the tester said a tube was weak, dad would go over to a
 counter and ask the man there for a new one.
 
-When I got a little I would spend
-hours poring over the Radio Shack catalog. It was full of things I wished I
-could buy. There were transistor radios and component hi-fi systems including
-turntables and a reel-to-reel tape recorders. There were shortwave radios and
-pages of CB radios and accessories. There were headphones and outdoor speakers.
-There was an X10 system for controlling your lights from a control box next to
-your bed. There were metal detectors. And there were pages and pages of
-electronic parts: tubes, transistors, capacitors, resisters and kits for making
-your own printed circuit boards.
+<!--more-->
+
+When I got a little I would spend hours poring over the Radio Shack catalog. It
+was full of things I wished I could buy. There were transistor radios and
+component hi-fi systems including turntables and a reel-to-reel tape recorders.
+There were shortwave radios and pages of CB radios and accessories. There were
+headphones and outdoor speakers.  There was an X10 system for controlling your
+lights from a control box next to your bed. There were metal detectors. And
+there were pages and pages of electronic parts: tubes, transistors, capacitors,
+resisters and kits for making your own printed circuit boards.
 
 When I was around 10 my grandparents bought me
 an electronic projects kit. It was a wooden box with a cardboard panel inside.

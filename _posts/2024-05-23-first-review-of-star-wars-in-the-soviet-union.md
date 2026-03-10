@@ -12,13 +12,18 @@ categories:
 - society
 tags: []
 ---
-[caption id="attachment_438" align="alignright" width="300"][![](/files/2024/05/667379_1_w_1200-300x133.jpg)](/files/2024/05/667379_1_w_1200.jpg)
+{% include figure.html
+	file="2024/05/667379_1_w_1200.jpg"
+	width=300 height=133
+%}
 
 The review as it appeared in the _Literary Gazette_. Caption under photograph
 of storm trooper: This is what one of the “heroes” of the film _War of the
 Stars_ looks like.[/caption] This is the first review of _Star Wars_ published
 in the Soviet Union. It appeared in the _Literary Gazette,_ a Moscow weekly, on
 September 7, 1977.
+
+<!--more-->
 
 It is unlikely the reviewer had had an opportunity to see
 the film, nor would most of her readers be able to see it anytime soon. All we
