@@ -16,6 +16,7 @@ MAIN {
 	flex: 1 1 auto;
 	height: 100px;
 	overflow-y: auto;
+	padding: 0.5em;
 	}
 HEADER, FOOTER {
 	font-family: sans-serif;
@@ -74,8 +75,8 @@ LI {
 	margin: 0 0 .4em 0;
 	}
 
-MAIN.page {
-	padding: 0.5em;
+MAIN.post {
+	padding: 0;
 	}
 
 SECTION.teaser {
