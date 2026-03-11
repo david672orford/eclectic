@@ -104,6 +104,13 @@ SECTION.teaser .note-citation {	/* odt2html output */
 	display: none;
 	}
 
+NAV.sidebar {
+	float: right;
+	width: 2.5in;
+	border: 2px solid black;
+	padding: .25em;
+	}
+
 DIV.pagination {
 	display: flex;
 	padding: .5em;

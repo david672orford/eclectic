@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<nav class="sidebar">
+<ul>
+{% for category in site.categories %}
+<li><a href="/category/{{ category[0] }}">{{ category[0] }}</a></li>
+{% endfor %}
+</ul>
+</nav>
+
 {% for post in paginator.posts %}
 <section class="teaser">
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
