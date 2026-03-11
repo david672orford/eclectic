@@ -12,6 +12,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      layout: "post"
       author: "David Chappell" 
       excerpt_separator: <!--more-->
 permalink: /:year/:month/:day/:title
