@@ -6,8 +6,6 @@ last_modified_at: 2016-01-14 22:11:23 -0000
 categories:
 - asterisk
 - voip
-- voip peering
-tags: []
 ---
 Do you have an Asterisk box and an underutilized T1? Or do you have a large
 number of DID numbers on your PBX? Why not join a DUNDi cloud and trade access

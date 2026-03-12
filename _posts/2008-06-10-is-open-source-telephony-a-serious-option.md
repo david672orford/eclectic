@@ -6,8 +6,7 @@ last_modified_at: 2016-01-14 22:07:28 -0000
 categories:
 - asterisk
 - opensource
-- telephony
-tags: []
+- voip
 ---
 I was recently asked whether anyone would every really consider replacing a
 tired old PBX with an open source system and whether we had any experience with

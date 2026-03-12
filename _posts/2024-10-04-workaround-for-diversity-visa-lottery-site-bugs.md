@@ -4,7 +4,8 @@ permalink: workaround-for-diversity-visa-lottery-site-bugs/
 date: 2024-10-04 13:00:20 -0000
 last_modified_at: 2024-05-09 16:57:02 -0000
 categories:
-- dns
+- computing
+- society
 tags: []
 ---
 {% include figure.html

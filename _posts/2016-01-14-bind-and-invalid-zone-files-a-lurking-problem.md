@@ -4,7 +4,7 @@ permalink: bind-and-invalid-zone-files-a-lurking-problem/
 date: 2016-01-14 21:34:42 -0000
 last_modified_at: 2019-02-05 17:54:16 -0000
 categories:
-- dns
+- computing
 - system administration
 tags: []
 ---

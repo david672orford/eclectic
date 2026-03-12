@@ -5,7 +5,8 @@ date: 2019-02-05 17:47:03 -0000
 last_modified_at: 2021-02-06 19:48:36 -0000
 categories:
 - science
-tags: []
+- religion
+- history
 ---
 {% include figure.html
 	file="2019/02/GodfreyKneller-IsaacNewton-1689.jpg"

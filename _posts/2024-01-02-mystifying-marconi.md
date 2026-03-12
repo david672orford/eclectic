@@ -4,10 +4,8 @@ permalink: mystifying-marconi/
 date: 2024-01-03 00:04:13 -0000
 last_modified_at: 2025-12-24 14:16:59 -0000
 categories:
-- electricity
 - science
-- space
-tags: []
+- radio
 ---
 {% include figure.html
 	file="2024/01/Guglielmo_Marconi.jpg"
@@ -28,18 +26,17 @@ Bethlehem!
 
 <!--more-->
 
-This last claim is the more extrordinary. But I can find no
-evidence that it is true. Not only can I find nothing to connect Marconi with
-these ideas, I can find nothing online to suggest that the possiblility of
-recovering "lost sounds" is even a known belief. [See my later article [Every
-Sound Dies](/every-sound-dies/) for a
-possible source of this idea.]
+This last claim is the more extrordinary. But I can find no evidence that it is
+true. Not only can I find nothing to connect Marconi with these ideas, I can
+find nothing online to suggest that the possiblility of recovering "lost
+sounds" is even a known belief. [See my later article [Every Sound
+Dies](/every-sound-dies/) for a possible source of this idea.]
 
-The idea that he might have been interested in
-spiritualism is at least plausible. A number of well-known figures of the day
-were receptive to the idea of communicating with the dead including Sir Arthur
-Conan Doyle, biologist Alfred Russell Wallace, and English physicist and radio
-pioneer Oliver Lodge. But Marconi does not seem to have been one of them.
+The idea that he might have been interested in spiritualism is at least
+plausible. A number of well-known figures of the day were receptive to the idea
+of communicating with the dead including Sir Arthur Conan Doyle, biologist
+Alfred Russell Wallace, and English physicist and radio pioneer Oliver Lodge.
+But Marconi does not seem to have been one of them.
 
 The writer of the article in the _Independent_ , apparently seeking confirmation of
 what he was told, makes repeated attempts to read the paranormal into Marconi's

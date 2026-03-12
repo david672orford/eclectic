@@ -5,9 +5,7 @@ date: 2009-01-09 22:13:00 -0000
 last_modified_at: 2016-01-14 22:06:24 -0000
 categories:
 - asterisk
-- telephony
 - voip
-tags: []
 ---
 There is more to being a good VoIP telephony provider for Asterisk users than
 simply offering the best balance of price and reliability. Usability is also

@@ -4,9 +4,7 @@ permalink: flowroute/
 date: 2010-07-15 15:12:00 -0000
 last_modified_at: 2016-01-14 22:08:40 -0000
 categories:
-- asterisk
 - voip
-tags: []
 ---
 I have been grieving ever since Voicepulse canceled its flexrate program and
 been looking for a new low-price provider with good quality.

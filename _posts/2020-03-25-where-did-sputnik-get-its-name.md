@@ -6,7 +6,7 @@ last_modified_at: 2024-05-23 20:50:41 -0000
 categories:
 - russian
 - science
-- space
+- history
 tags: []
 ---
 {% include figure.html

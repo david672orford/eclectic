@@ -13,7 +13,7 @@ layout: default
       <div class="post-metadata">
         <span>{{ post.date | date: site.date_format }}</span>
         {% for category in post.categories %}
-        <span><a href="/category/{{ category }}">{{ category }}</a></span>
+        <span><a href="/category/{{ category | slugify }}">{{ category }}</a></span>
         {% endfor %}
       </div>
       </header>
@@ -54,12 +54,6 @@ layout: default
 
 </div>
 
-<nav class="sidebar">
-<ul>
-{% for category in site.categories %}
-<li><a href="/category/{{ category[0] }}">{{ category[0] }}</a></li>
-{% endfor %}
-</ul>
-</nav>
+{% include sidebar.html %}
 
 </div>

@@ -4,8 +4,9 @@ permalink: chatgpt-hallucinates-about-newtons-faith/
 date: 2024-11-22 15:36:59 -0000
 last_modified_at: 2025-09-11 19:43:48 -0000
 categories:
-- Uncategorized
-tags: []
+- computing
+- religion
+- history
 ---
 {% include figure.html
 	alt="Portrait of Isaac Newton"

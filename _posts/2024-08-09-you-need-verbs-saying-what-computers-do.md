@@ -6,8 +6,6 @@ last_modified_at: 2025-08-22 13:10:11 -0000
 categories:
 - computing
 - english
-- society
-tags: []
 ---
 {% include figure.html
 	file="2024/05/manual-3684460_1920.jpg"
