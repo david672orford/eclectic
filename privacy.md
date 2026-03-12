@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Privacy Notice
 
 ## Server Logs

@@ -1,6 +1,58 @@
 ---
 layout: default
 ---
+<div class="hbox">
+<div class="vbox">
+
+<main>
+  <section class="posts">
+    {% for post in paginator.posts %}
+    <article>
+      <header>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="post-metadata">
+        <span>{{ post.date | date: site.date_format }}</span>
+        {% for category in post.categories %}
+        <span><a href="/category/{{ category }}">{{ category }}</a></span>
+        {% endfor %}
+      </div>
+      </header>
+      <div class="post-body">
+      {{ post.excerpt }}
+      </div>
+      {% if post.excerpt.size < post.content.size %}
+      <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading…</a></p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </section>
+</main>
+
+<nav class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="previous">
+    &laquo; Previous
+  </a>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <span class="current-page">{{ page }}</span>
+    {% elsif page == 1 %}
+    <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next">
+    Next &raquo;
+  </a>
+  {% endif %}
+</nav>
+
+</div>
 
 <nav class="sidebar">
 <ul>
@@ -10,39 +62,4 @@ layout: default
 </ul>
 </nav>
 
-{% for post in paginator.posts %}
-<section class="teaser">
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-	<div class="post-date">{{ post.date | date: site.date_format }}</div>
-    <div class="entry">
-      {{ post.excerpt }}
-    </div>
-	{% if post.excerpt.size < post.content.size %}
-    <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></p>
-	{% endif %}
-</section>
-{% endfor %}
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      &laquo; Previous
-    </a>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span class="current-page">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">
-      Next &raquo;
-    </a>
-  {% endif %}
 </div>

@@ -26,3 +26,4 @@ paginate_path: "/page/:num/"
 jekyll-archives:
   enabled: ["categories"]
   category: "/category/:name/"
+  layout: archive
