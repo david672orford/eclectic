@@ -48,7 +48,7 @@ primarily meant a natural satellites such the moons of Earth or Jupiter. The
 situation was similar in Russian. That is why _Pravda_ had to spell out what
 was meant writing that this was an "artificial satellite of Earth".
 
-<aside>
+<aside markdown="1">
 
 ### The Russian Word
 
