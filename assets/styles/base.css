@@ -176,6 +176,29 @@ ARTICLE DIV.post-metadata {
 	font-size: 80%;
 	}
 
+SECTION#comments {
+	border: thin solid black;
+	}
+SECTION#comments > H2 {
+	margin: .2em;
+	}
+SECTION#comments > ARTICLE.comment {
+	margin: .2em;
+	padding: 0;
+	border: thin solid black;
+	}
+SECTION#comments > ARTICLE.comment > HEADER {
+	display: flex;
+	justify-content: space-between;
+	background-color: #f0f0f0;
+	margin: 0;
+	padding: .5em;
+	font-family: sans-serif;
+	}
+SECTION#comments > ARTICLE.comment > DIV.comment-body {
+	padding: .5em;
+	}
+
 FIGURE.float {
 	clear: both;
 	width: 300px;
@@ -232,6 +255,7 @@ DIV.author-box {
 	flex-direction: row;
 	align-items: start;
 	max-width: 600px;
+	margin: .5em 0;
 	border: thin solid black;
 	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.40);
 	}

@@ -27,3 +27,4 @@ jekyll-archives:
   enabled: ["categories"]
   category: "/category/:name/"
   layout: archive
+comments_script_url: "https://comments.eclectic.trincoll.edu/comments.js"
