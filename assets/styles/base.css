@@ -126,14 +126,16 @@ NAV.sidebar > DIV.menu-button {
 	text-align: right;
 	}
 NAV.sidebar > DIV.menu-button > svg {
-	margin: .03em .04em;
-	width: 1.75em;
-	height: 1.75em;
+	width: 1.5em;
+	height: 1.5em;
 	}
 NAV.sidebar > DIV.menu-button > svg path {
 	stroke: white;
-	stroke-width: 5;
+	stroke-width: 6;
 	stroke-linecap: round;
+	}
+NAV.sidebar:focus-within > DIV.menu-button > svg path {
+	stroke: black;
 	}
 NAV.sidebar:focus-within {
 	width: 2.5in;
