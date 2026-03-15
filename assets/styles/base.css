@@ -37,6 +37,7 @@ BODY > HEADER, BODY > FOOTER {
 BODY > HEADER H1 {
 	font-size: 120%;
 	padding: .4em;
+	margin-right: 2em;		/* room for menu button */
 	}
 BODY > HEADER A, BODY > FOOTER A {
 	text-decoration: inherit;
@@ -124,15 +125,15 @@ NAV.sidebar > DIV.menu-button {
 	text-align: right;
 	}
 NAV.sidebar > DIV.menu-button > svg {
-	border: thin solid #808080;
-	border-radius: 0.2em;
 	margin: .05em;
 	width: 1.75em;
 	height: 1.75em;
-	background-color: white;
+	/* background-color: white;
+	border: thin solid #808080;
+	border-radius: 0.2em; */
 	}
 NAV.sidebar > DIV.menu-button > svg path {
-	stroke: #808080;
+	stroke: white;
 	stroke-width: 5;
 	stroke-linecap: round;
 	}

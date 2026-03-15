@@ -4,6 +4,9 @@ style: >
   .P11 {
     font-style: italic;
   }
+  .P2 {
+    font-style: bold;
+  }
   .T1 {
     }
   .T2 {
