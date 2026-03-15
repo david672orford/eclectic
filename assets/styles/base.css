@@ -64,6 +64,7 @@ H3 {
 TABLE {
 	border-collapse: collapse;
 	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
+	font-family: sans-serif;
 	}
 TH, TD {
 	border: thin solid black;
