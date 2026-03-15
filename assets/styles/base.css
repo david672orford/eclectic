@@ -2,6 +2,9 @@ HTML, BODY, HEADER, MAIN, H1, H2, H3, H4, P, UL, OL, LI, TABLE, TR, TH, TD, FIGU
 	margin: 0;
 	padding: 0;
 	}
+* {
+	box-sizing: border-box;
+	}
 HTML, BODY {
 	height: 100%;
 	}
@@ -11,10 +14,15 @@ BODY {
 	background-color: white;
 	color: black;
 	font-size: 14pt;
+	position: relative;
+	}
+DIV.non-scrolled {
+	flex-grow: 1;
+	position: relative;
 	}
 DIV.scroller {
+	height: 100%;
 	flex: 1 1 auto;
-	height: 100px;
 	overflow-y: auto;
 	}
 MAIN.padded {
@@ -77,14 +85,6 @@ LI {
 	margin: 0 0 .4em 0;
 	}
 
-DIV.hbox {
-	display: flex;
-	justify-content: space-between;
-	}
-DIV.vbox {
-	flex-grow: 1;
-	}
-
 /* Blog posts preview page */
 .posts ARTICLE {
 	display: flow-root;
@@ -112,10 +112,41 @@ DIV.vbox {
 	}
 
 NAV.sidebar {
-	width: 2.5in;
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: flex;
+	flex-direction: column;
 	padding: .25em;
-	border-left: thin solid #808080;
+	}
+NAV.sidebar > DIV.menu-button {
+	text-align: right;
+	}
+NAV.sidebar > DIV.menu-button > svg {
+	border: thin solid #808080;
+	border-radius: 0.2em;
+	margin: .05em;
+	width: 1.75em;
+	height: 1.75em;
+	background-color: white;
+	}
+NAV.sidebar > DIV.menu-button > svg path {
+	stroke: #808080;
+	stroke-width: 5;
+	stroke-linecap: round;
+	}
+NAV.sidebar:focus-within {
+	width: 2.5in;
+	height: 100%;
 	background-color: #f0f0f0;
+	border-left: thin solid black;
+	}
+NAV.sidebar > DIV.menu-scroller {
+	display: none;
+	overflow-y: auto;
+	}
+NAV.sidebar:focus-within > DIV.menu-scroller {
+	display: block;
 	}
 
 NAV.pagination {
