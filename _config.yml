@@ -23,8 +23,9 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num/"
 jekyll-archives:
-  enabled: ["categories", "month"]
+  enabled: ["categories", "month", "year"]
   category: "/category/:name/"
+  year: "/:year/"
   month: "/:year/:month/"
   layout: archive
 google_analytics: "G-4ZKR534XQD"
