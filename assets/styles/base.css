@@ -36,6 +36,7 @@ BODY > HEADER, BODY > FOOTER {
 	}
 BODY > HEADER H1 {
 	font-size: 120%;
+	line-height: 1.1em;
 	padding: .3em;
 	margin-right: 2em;		/* room for menu button */
 	}
@@ -126,8 +127,9 @@ NAV.sidebar > DIV.menu-button {
 	text-align: right;
 	}
 NAV.sidebar > DIV.menu-button > svg {
-	width: 1.5em;
-	height: 1.5em;
+	width: 1.45em;
+	height: 1.45em;
+	margin: .05em;
 	}
 NAV.sidebar > DIV.menu-button > svg path {
 	stroke: white;
@@ -300,18 +302,9 @@ SECTION#comments > ARTICLE.comment > HEADER {
 	justify-content: space-between;
 	background-color: #f0f0f0;
 	margin: 0;
-	padding: .5em;
+	padding: .2em;
 	font-family: sans-serif;
 	}
 SECTION#comments > ARTICLE.comment > DIV.comment-body {
-	padding: .5em;
+	padding: .2em;
 	}
-FORM#comment-composer {
-	margin: .2em;
-	border: thin solid black;
-	padding: 0.5em;
-	}
-FORM#comment-composer TEXTAREA {
-	width: calc(100% - 1em);
-	}
-

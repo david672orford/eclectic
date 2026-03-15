@@ -4,7 +4,7 @@ style: >
   .P11 {
     font-style: italic;
   }
-  .P2 {
+  .P2, .P4 {		/* table headings */
     font-weight: bold;
   }
   .T1 {
