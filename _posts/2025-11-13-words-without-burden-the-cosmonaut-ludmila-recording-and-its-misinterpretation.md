@@ -5,7 +5,7 @@ style: >
     font-style: italic;
   }
   .P2 {
-    font-style: bold;
+    font-weight: bold;
   }
   .T1 {
     }
