@@ -126,12 +126,9 @@ NAV.sidebar > DIV.menu-button {
 	text-align: right;
 	}
 NAV.sidebar > DIV.menu-button > svg {
-	margin: .04em;
+	margin: .03em .04em;
 	width: 1.75em;
 	height: 1.75em;
-	/* background-color: white;
-	border: thin solid #808080;
-	border-radius: 0.2em; */
 	}
 NAV.sidebar > DIV.menu-button > svg path {
 	stroke: white;
