@@ -36,7 +36,7 @@ BODY > HEADER, BODY > FOOTER {
 	}
 BODY > HEADER H1 {
 	font-size: 120%;
-	padding: .4em;
+	padding: .3em;
 	margin-right: 2em;		/* room for menu button */
 	}
 BODY > HEADER A, BODY > FOOTER A {
@@ -46,7 +46,7 @@ BODY > HEADER A, BODY > FOOTER A {
 BODY > FOOTER {
 	display: flex;
 	justify-content: space-between;
-	padding: .5em;
+	padding: .3em;
 	}
 
 H1, H2, H3, H4, H5, H6 {
