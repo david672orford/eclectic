@@ -23,8 +23,9 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num/"
 jekyll-archives:
-  enabled: ["categories"]
+  enabled: ["categories", "month"]
   category: "/category/:name/"
+  month: "/:year/:month/"
   layout: archive
 google_analytics: "G-4ZKR534XQD"
 comments_script_url: "https://comments.eclectic.trincoll.edu/comments.js"
