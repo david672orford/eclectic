@@ -11,6 +11,7 @@ tags: []
 {% include figure.html
 	file="2024/05/double-negation.png"
 	width=300 height=225
+    alt="Mathematical notation: The opposite of the opposite of one"
 %}
 
 A few years ago a user on Stack Exchange asked why the construction used in

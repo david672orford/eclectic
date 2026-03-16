@@ -19,9 +19,16 @@ style: >
     font-size: .85em;
     vertical-align: super;
    }
-   UL.notes { list-style-type: none; margin: 0; }
+  UL.notes {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    }
    UL.notes LI { display: flex; margin: .2em 0 }
-   DIV.note-citation { width: 2.5rem; flex-shrink: 0 }
+   DIV.note-citation {
+    width: 2rem;
+    flex-shrink: 0;
+    }
    DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
 ---
 {% include figure.html 

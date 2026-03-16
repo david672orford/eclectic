@@ -2,5 +2,5 @@
   <a href="/files/{{include.file}}">
     <img src="/files/{{include.file}}" alt="{{include.alt|escape}}">
   </a>
-  <figcaption>{{include.caption}}</figcaption>
+  <figcaption>{{include.caption | safe}}</figcaption>
 </figure>

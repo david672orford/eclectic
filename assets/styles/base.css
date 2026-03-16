@@ -72,7 +72,9 @@ TH, TD {
 	padding: .5em;
 	}
 BLOCKQUOTE {
-	margin: 0 1em .5em 1em;
+	margin: 0 .8em .5em .5em;
+	border-left: .1em solid grey;
+	padding: 0 .2em;
 	}
 P {
 	margin-bottom: .5em;
