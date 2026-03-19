@@ -1,0 +1,342 @@
+HTML, BODY, HEADER, MAIN, H1, H2, H3, H4, P, UL, OL, LI, TABLE, TR, TH, TD, FIGURE, FIGCAPTION, IMG {
+	margin: 0;
+	padding: 0;
+	}
+* {
+	box-sizing: border-box;
+	}
+HTML, BODY {
+	height: 100%;
+	}
+BODY {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	color: black;
+	font-size: 14pt;
+	position: relative;
+	}
+DIV.non-scrolled {
+	flex-grow: 1;
+	position: relative;
+	}
+DIV.scroller {
+	height: 100%;
+	flex: 1 1 auto;
+	overflow-y: auto;
+	}
+MAIN.padded {
+	padding: 0.5em;
+	}
+BODY > HEADER, BODY > FOOTER {
+	font-family: sans-serif;
+	color: white;
+	background-color: #c88200;
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
+	}
+BODY > HEADER H1 {
+	font-size: 120%;
+	line-height: 1.1em;
+	padding: .3em;
+	margin-right: 2em;		/* room for menu button */
+	}
+BODY > HEADER A, BODY > FOOTER A {
+	text-decoration: inherit;
+	color: inherit;
+	}
+BODY > FOOTER {
+	display: flex;
+	justify-content: space-between;
+	padding: .3em;
+	}
+
+H1, H2, H3, H4, H5, H6 {
+	font-family: sans-serif;
+	}
+H1 {
+	font-size: 150%;
+	}
+H2 {
+	font-size: 120%;
+	}
+H3 {
+	font-size: 100%;
+	}
+TABLE {
+	border-collapse: collapse;
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
+	font-family: sans-serif;
+	}
+TH, TD {
+	border: thin solid black;
+	padding: .5em;
+	}
+BLOCKQUOTE {
+	margin: 0 .8em .5em .5em;
+	border-left: .1em solid grey;
+	padding: 0 .2em;
+	}
+P {
+	margin-bottom: .5em;
+	}
+UL, OL {
+	padding-left: 1.2em;
+	margin-bottom: .5em;
+	}
+UL UL, OL OL {
+	margin-top: .5em;
+	}
+LI {
+	margin: 0 0 .4em 0;
+	}
+
+/* Blog posts preview page */
+.posts ARTICLE {
+	display: flow-root;
+	max-width: 40em;
+	border: thin solid black;
+	margin: .5em;
+	padding: .5em;
+	}
+.posts ARTICLE H1 A {
+	text-decoration: inherit;
+	color: inherit;
+	}
+.posts ARTICLE P.read-more A {
+	}
+.posts ARTICLE A.wide {
+	display: block;
+	width: 80%;
+	}
+.posts ARTICLE A.wide IMG {
+	display: block;
+	width: 100%;
+	}
+.posts ARTICLE .note-citation {	/* odt2html output */
+	display: none;
+	}
+
+NAV.sidebar {
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: flex;
+	flex-direction: column;
+	padding: .25em;
+	font-family: sans-serif;
+	}
+NAV.sidebar > DIV.menu-button {
+	text-align: right;
+	}
+NAV.sidebar > DIV.menu-button > svg {
+	width: 1.45em;
+	height: 1.45em;
+	margin: .05em;
+	}
+NAV.sidebar > DIV.menu-button > svg path {
+	stroke: white;
+	stroke-width: 6;
+	stroke-linecap: round;
+	}
+NAV.sidebar:focus-within > DIV.menu-button > svg path {
+	stroke: black;
+	}
+NAV.sidebar:focus-within {
+	width: 2.5in;
+	height: 100%;
+	background-color: #f0f0f0;
+	border-left: thin solid black;
+	}
+NAV.sidebar > DIV.menu-scroller {
+	display: none;
+	overflow-y: auto;
+	}
+NAV.sidebar:focus-within > DIV.menu-scroller {
+	display: block;
+	}
+
+NAV.pagination {
+	display: flex;
+	padding: .2em .1em;
+	font-family: sans-serif;
+	font-size: 120%;
+	background-color: #f0f0f0;
+	}
+NAV.pagination > * {
+	flex-grow: 1;
+	margin: 0.02em;
+	padding: .3em .5em;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: .2em;
+	}
+NAV.pagination A {
+	text-decoration: none;
+	color: inherit;
+	}
+NAV.pagination .current-page, NAV.pagination A:hover {
+	border-color: black;
+	}
+
+/* Blog posting */
+ARTICLE {
+	padding: 0.5em;
+	}
+ARTICLE > HEADER {
+	margin: 0 -0.5em 0.5em -0.5em;
+	padding: 0 0.5em 0.5em 0.5em;
+	border-bottom: thin solid #808080;
+	}
+ARTICLE H1 {
+	font-size: 120%;
+	padding: 0;
+	margin-bottom: .2em;
+	}
+ARTICLE H2 {
+	font-size: 110%;
+	margin-bottom: .2em;
+	}
+ARTICLE ASIDE {
+	float: right;
+	width: 2.5in;
+	border: 2px solid black;
+	padding: .25em;
+	}
+ARTICLE A.wide, ARTICLE A.wide IMG {
+	display: block;
+	width: 100%;
+	}
+ARTICLE DIV.post-metadata {
+	font-family: sans-serif;
+	font-size: 80%;
+	}
+
+FIGURE.float {
+	clear: both;
+	width: 300px;
+	max-width: 33%;
+	padding: 5px;
+	border: 1px solid black;
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
+	background-color: Canvas;
+	}
+FIGURE.float IMG {
+	display: block;
+	width: 100%;
+	}
+FIGURE.float.portrait {
+	width: 175px;
+	}
+FIGURE.float.left {
+	float: left;
+	margin: 0 .5em .5em 0;
+	}
+FIGURE.float.right {
+	float: right;
+	margin: 0 0 .5em .5em;
+	}
+FIGURE.float FIGCAPTION {
+	margin-top: .3em;
+	font-family: sans-serif;
+	font-size: 80%;
+	}
+
+/* Syntax highlighting */
+PRE {
+	display: inline-block;		/* shrink to width, prevents overlap with floats */
+	padding: .5em;
+	background-color: white;
+	border: 1px solid black;
+	color: black;
+	margin: 0 .5em .5em .5em;
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
+	}
+.nt {		/* tag */
+	color: blue;
+	}
+.na {		/* attribute */
+	color: red;
+	}
+.ns {		/* string */
+	color: green;
+    }
+
+DIV.author-box {
+	clear: both;
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+	max-width: 600px;
+	margin: .5em 0;
+	border: thin solid black;
+	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.40);
+	}
+DIV.author-box IMG {
+	display: block;
+	width: 17%;
+	max-width: 64px;
+	}
+DIV.author-byline {
+	font-weight: bold;
+	margin: .3em;
+	font-size: 80%;
+	}
+DIV.author-blurb {
+	margin: .3em;
+	font-size: 80%;
+	}
+
+SECTION#comments {
+	border: thin solid black;
+	}
+SECTION#comments > H2 {
+	margin: .2em;
+	}
+SECTION#comments ARTICLE {
+	margin: .2em;
+	padding: 0;
+	border: thin solid black;
+	}
+SECTION#comments ARTICLE ARTICLE {
+	margin-left: 1em;
+	}
+SECTION#comments ARTICLE > HEADER {
+	display: flex;
+	justify-content: space-between;
+	background-color: #f0f0f0;
+	margin: 0;
+	padding: .2em;
+	font-family: sans-serif;
+	}
+SECTION#comments ARTICLE > DIV.comment-body {
+	margin: .2em;
+	}
+SECTION#comments BUTTON.reply {
+	padding: .3em .5em;
+	}
+SECTION#comments BUTTON.post-comment {
+	margin: .2em;
+	padding: .5em;
+	}
+
+SECTION#comments > DIV.composer {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	background-color: rgba(255, 255, 255, 0.8);
+	}
+SECTION#comments > DIV.composer > IFRAME {
+	margin: auto;
+	width: 90%;
+	height: 90%;
+	border: .1em solid #808080;
+	border-radius: .2em;
+	background-color: white;
+	}
+

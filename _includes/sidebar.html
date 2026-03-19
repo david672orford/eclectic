@@ -1,0 +1,36 @@
+<nav class="sidebar" tabindex="0">
+<div class="menu-button">
+  <svg width="64" height="64" viewbox="0 0 64 64">
+    <path d="M 4,6 H56"></path>
+    <path d="M 4,32 H56"></path>
+    <path d="M 4,58 H56"></path>
+  </svg>
+</div>
+<div class="menu-scroller">
+  <div id="recent"></div>
+
+  <h2>Categories</h2>
+  {% assign categories = site.categories | sort %}
+  <ul>
+  {% for category in categories %}
+  <li>
+    <a href="/category/{{ category[0] | slugify }}">
+      {{ category[0] }}</a>
+    ({{ category[1] | size }})
+  </li>
+  {% endfor %}
+  </ul>
+
+  <h2>Archives</h2>
+  {% assign years = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  <ul>
+  {% for year in years %}
+  <li>
+    <a href="{{ year.items[0].date | date: "/%Y/" }}">
+      {{ year.name }}</a>
+	({{ year.items | size }})
+  </li>
+  {% endfor %}
+  </ul>
+</div>
+</nav>
