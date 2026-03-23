@@ -2,7 +2,7 @@
 title: Workaround for Diversity Visa Lottery Site Bugs
 permalink: workaround-for-diversity-visa-lottery-site-bugs/
 date: 2024-10-04 13:00:20 -0000
-last_modified_at: 2024-05-09 16:57:02 -0000
+last_modified_at: 2026-03-19 22:19:00 -0400
 categories:
 - computing
 - society
@@ -22,6 +22,6 @@ at the required 600 by 600 pixels.
 If you still get Connection Reset, don't
 despair, you don't need to enter everything again:
 
-* Start a new application
+* Start a new application in a separate window or tab
 * Do the Captcha
 * Go back to your original application and reload the page

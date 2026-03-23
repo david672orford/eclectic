@@ -1,4 +1,4 @@
-HTML, BODY, HEADER, MAIN, H1, H2, H3, H4, P, UL, OL, LI, TABLE, TR, TH, TD, FIGURE, FIGCAPTION, IMG {
+HTML, BODY, HEADER, MAIN, H1, H2, H3, H4, P, UL, OL, LI, DL, DT, DT, TABLE, TR, TH, TD, FIGURE, FIGCAPTION, IMG {
 	margin: 0;
 	padding: 0;
 	}
@@ -45,9 +45,13 @@ BODY > HEADER A, BODY > FOOTER A {
 	color: inherit;
 	}
 BODY > FOOTER {
-	display: flex;
-	justify-content: space-between;
+	display: grid;
+	grid-template-columns: 1fr auto 1fr;
+	align-items: center;
 	padding: .3em;
+	}
+BODY > FOOTER > SPAN:last-child {
+	text-align: right;
 	}
 
 H1, H2, H3, H4, H5, H6 {
@@ -88,6 +92,12 @@ UL UL, OL OL {
 	}
 LI {
 	margin: 0 0 .4em 0;
+	}
+DL {
+	margin-bottom: .5em
+	}
+DD {
+	margin-left: 1em;
 	}
 
 /* Blog posts preview page */
@@ -150,9 +160,17 @@ NAV.sidebar:focus-within {
 NAV.sidebar > DIV.menu-scroller {
 	display: none;
 	overflow-y: auto;
+	font-size: 75%;
 	}
 NAV.sidebar:focus-within > DIV.menu-scroller {
 	display: block;
+	}
+NAV.sidebar H2 {
+	margin-bottom: .4rem;
+	}
+NAV.sidebar UL {
+	list-style-type: none;
+	padding-left: .2em;
 	}
 
 NAV.pagination {
@@ -200,7 +218,9 @@ ARTICLE H2 {
 	}
 ARTICLE ASIDE {
 	float: right;
+	max-width: 45%;
 	width: 2.5in;
+	min-width: 1.5in;
 	border: 2px solid black;
 	padding: .25em;
 	}

@@ -52,20 +52,6 @@ statements on the science of radio. For example:
 > try and find out what are the somewhat occult causes which make sounds good
 > one night and unobtainable the next.”
 
-This was written barely six months after Marconi's first successful
-trans-Atlantic message. They are discussing why contact with Europe is
-intermittent. The causes of this variability are "occult" in the sense that
-they are obscure. And they will remain obscure until 1924 when [Edward V.
-Appleton](https://en.wikipedia.org/wiki/Edward_Victor_Appleton) demonstrates
-that there is an unstable layer in the upper atmosphere which reflects radio
-waves back down to earth. This is how Marconi was able to communicate with
-stations beyond the curve of the earth. Changes in this layer from night to
-night are now known to be the cause of the inconsistent results. For finally
-explaining Marconi's observations Appleton received the [1947 Nobel Prize in
-physics](https://www.nobelprize.org/prizes/physics/1947/summary/). The author
-of this article seems to be unfamiliar with both the history of radio and
-19th-century uses of the word "occult".
-
 <aside markdown="1">
 
 ## Timeline
@@ -123,12 +109,26 @@ of this article seems to be unfamiliar with both the history of radio and
 
 </aside>
 
+This was written barely six months after Marconi's first successful
+trans-Atlantic message. They are discussing why contact with Europe is
+intermittent. The causes of this variability are "occult" in the sense that
+they are obscure. And they will remain obscure until 1924 when [Edward V.
+Appleton](https://en.wikipedia.org/wiki/Edward_Victor_Appleton) demonstrates
+that there is an unstable layer in the upper atmosphere which reflects radio
+waves back down to earth. This is how Marconi was able to communicate with
+stations beyond the curve of the earth. Changes in this layer from night to
+night are now known to be the cause of the inconsistent results. For finally
+explaining Marconi's observations Appleton received the [1947 Nobel Prize in
+physics](https://www.nobelprize.org/prizes/physics/1947/summary/). The author
+of this article seems to be unfamiliar with both the history of radio and
+19th-century uses of the word "occult".
+
 And there are more strange assertions:
 
 > And Marconi’s own confusion about the science behind his success didn’t help
 > his case. When in 1897 the journalist H.J.W. Dam asked him about differences
 > between types of electromagnetic waves, Marconi professed ignorance.
-
+>
 > “I don’t know,” he said. “I am not a scientist, but I doubt if any scientist can yet
 > tell. I have a vague idea that the difference lies in the form of the wave.”
 > Dam concluded that the “mystery of the ether” underlay Marconi’s work with

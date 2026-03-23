@@ -1,10 +1,23 @@
 ---
+title: "Words Without Burden: The Cosmonaut Ludmila Recording And Its Misinterpretation"
 permalink: words-without-burden-the-cosmonaut-ludmila-recording-and-its-misinterpretation/
+abstract: >
+ The so-called Cosmonaut Ludmila recording is of a series of radio
+ transmissions intercepted by the Judica-Cordiglia brothers in May of 1961 on a
+ channel which they believed was used by the Soviet space program. They
+ interpreted the utterances as a distress call from a Soviet female astronaut
+ reporting an onboard fire. Since no corresponding Soviet space mission has ever
+ been identified, it is now widely supposed that the recording is a clumsy hoax.
+ We carefully transcribe the recording and find that it contains no references
+ at all to space flight, only nondescript utterances interspersed with childish
+ patter and frivolous remarks about the heat in the radio operator’s workspace.
 categories:
  - history
  - radio
  - russian
 image: "files/2024/10/Judica-cordiglia-brothers.jpg"
+pdf_url: "dl/2025-11-13-words-without-burden-v01.pdf"
+is_paper: true
 style: >
   .P11 {
     font-style: italic;
