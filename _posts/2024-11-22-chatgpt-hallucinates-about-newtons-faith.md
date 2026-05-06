@@ -22,25 +22,25 @@ was posed to ChatGPT 3.5 on February 13, 2023.
 
 ## Question
 
-Why didn't Newton accept the Trinity?
+> Why didn't Newton accept the Trinity?
 
 ## ChatGPT’s Answer
 
-Isaac Newton was a devout Christian, but he did not accept the doctrine of the
-Trinity as traditionally defined by the Church. He believed in a more
-puritanical form of Christianity and rejected many of the orthodox beliefs of
-his time, including the idea of the Trinity as three persons in one Godhead.
-Newton saw the Trinity as a pagan corruption of the early Christian Church, and
-he held that the doctrine was not supported by the Bible.
+> Isaac Newton was a devout Christian, but he did not accept the doctrine of the
+> Trinity as traditionally defined by the Church. He believed in a more
+> puritanical form of Christianity and rejected many of the orthodox beliefs of
+> his time, including the idea of the Trinity as three persons in one Godhead.
+> Newton saw the Trinity as a pagan corruption of the early Christian Church, and
+> he held that the doctrine was not supported by the Bible.
+>
+> Newton's rejection of the Trinity was a relatively minor aspect of his
+> religious beliefs, and it did not prevent him from making major contributions
+> to science. Nevertheless, his views on the Trinity were not widely accepted
+> during his lifetime, and he was often criticized for his unorthodox beliefs.
+> Today, Newton is remembered primarily for his scientific achievements, and his
+> views on religion are of historical interest.
 
 <!--more-->
-
-Newton's rejection of the Trinity was a relatively minor aspect of his
-religious beliefs, and it did not prevent him from making major contributions
-to science. Nevertheless, his views on the Trinity were not widely accepted
-during his lifetime, and he was often criticized for his unorthodox beliefs.
-Today, Newton is remembered primarily for his scientific achievements, and his
-views on religion are of historical interest.
 
 ## Analysis
 

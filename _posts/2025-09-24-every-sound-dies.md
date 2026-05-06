@@ -72,6 +72,7 @@ The story is not part of the main body of the book. Instead it is part of a teas
 %}
 <p class="Text_20_body">In 1883 a volcano on the island of Krakatoa exploded with the force of 13,000 Hiroshima bombs producing the loudest sound in recorded history. On the RMS Norham Castle 40 miles away from Krakatoa the captain wrote in his log that the eardrums of over half his crew were shattered. 3000 miles <!--soft-page-break-->away on the Indian Ocean island of Rodrigues it was reported that the sound was still “like the distant roar of heavy guns”.<a class="note-citation" href="#ftn7">vii</a> Weather stations around the world recorded pressure changes on their barometers as the wave passed them. The wave circled the earth approximately every 34 hours from both directions. These waves went on for days<a class="note-citation" href="#ftn8">viii</a>, but they did not go on forever.</p>
 <p class="Text_20_body">Marconi was nine-years-old when this happened and so as a scientifically-curious person interested in wave propagation would have been well aware of it. If he knew such an unimaginably loud sound was undetectable after five days, then he could have no reason to suppose that a mere human voice could be detected by any conceivable means 2000 years later. More importantly, neither Greg Milner who put this extraordinary story in print nor Nate DiMeo who embellished it are able to cite any source for their claim that Marconi believed “no sound ever dies”.</p>
+<h2>References</h2>
 <ul class="notes">
 <li id="ftn1" class="note">
 <div class="note-citation">i</div>

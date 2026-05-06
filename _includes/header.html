@@ -3,14 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{% seo %}
-{% if site.comments_script_url %}
-<script type="module" src="{{ site.comments_script_url }}"></script>
-{% endif %}
+{% include seo.html %}
+
 <link rel="stylesheet" href="{{ "/assets/styles/base.css?v=" | append: site.github.build_revision | relative_url }}">
 {% if page.style %}
 <style>{{page.style}}</style>
 {% endif %}
+
 {% if site.google_analytics %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -20,6 +19,10 @@
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
 </script>
+{% endif %}
+
+{% if site.comments_script_url %}
+<script type="module" src="{{ site.comments_script_url }}"></script>
 {% endif %}
 </head>
 <body>

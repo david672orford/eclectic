@@ -5,6 +5,10 @@ categories:
   - cybersecurity
   - opensource
 image: files/common/Vimlogo.png
+description: >
+  As of February 2026 Nessus reports half-a-dozen bugs in Vim.
+  Since Debian has not yet released a fix, I describe how to
+  install Vim 9.2 from Unstable.
 ---
 {% include figure.html 
 	file="common/Vimlogo.svg"

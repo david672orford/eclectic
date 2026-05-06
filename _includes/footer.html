@@ -5,6 +5,11 @@
 <footer>
 	<span>{{ site.copyright }}</span>
 	<span><a href="/privacy">Privacy Policy</a></span>
+	<span>
+		{% if page.pdf %}
+		<a href="/{{ page.pdf_url }}">Download Article</a>
+		{% endif %}
+	</span>
 </footer>
 </body>
 </html>

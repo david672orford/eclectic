@@ -1,16 +1,22 @@
 title: Eclectic
-description: Language, computing, and other topics
+description: Language, computing, history, and science
 permalink: /:year/:month/:day/:title
 copyright: "© 2008—2026 David Chappell"
+url: https://eclectic.trincoll.edu
 date_format: "%Y-%m-%d"
 authors:
   "David Chappell":
     photo: /assets/images/author.jpg
+    job_title: Senior Programmer
     blurb: >
       A computer programmer with {{ "now" | date: "%Y" | minus: 1990 }} years
       of experience working with Internet technology and developing opensource software
       His interests include electronics, language, and the philosophy and history
       of science.
+    same_as:
+      - https://orcid.org/0009-0000-7128-2349
+      - https://github.com/david672orford/
+      - https://www.linkedin.com/in/david-chappell-748018125/
 defaults:
   - scope:
       path: ""
@@ -22,6 +28,8 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-feed
+  - jekyll-sitemap
 paginate: 5
 paginate_path: "/page/:num/"
 jekyll-archives:
