@@ -4,6 +4,10 @@ categories:
 - electricity
 - explainer
 image: files/2026/05/fuse-typical-automotive.jpg
+description: >
+  We discuss why fuses have a voltage rating. Does a fuse used at other
+  than its rated voltage blow at a different currently level? Some believe
+  so.
 ---
 {% include figure.html 
 	file="files/2026/05/fuse-typical-automotive.jpg"
@@ -61,7 +65,7 @@ While the mathmatical calculations are performed correctly, the application of
 Joule's law is erroneous. To understand why, let's look at a simple circuit
 protected by a fuse.
 
-![0.01 volt measured across the fuse](files/2026/05/fuse-normal-operation.svg)
+![0.01 volt measured across the fuse](/files/2026/05/fuse-normal-operation.svg)
 
 Notice that the fuse is not connected to the load in parallel, as if it were a
 second lamp. Instead it is a short segment of the conductor leading to the
@@ -84,7 +88,7 @@ When the fuse blows the system current drops to zero and the voltage
 across the terminals of the fuse rises to the full system voltage, as 
 illustrated below:
 
-![Fuse open, 12.00 volts across its terminals](files/2026/05/fuse-after-failure.svg)
+![Fuse open, 12.00 volts across its terminals](/files/2026/05/fuse-after-failure.svg)
 
 It is at this moment that the voltage rating of the fuse becomes importing. If
 the gap created by the melting of the fuse is too small, then the current may

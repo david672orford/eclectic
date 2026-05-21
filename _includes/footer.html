@@ -6,8 +6,8 @@
 	<span>{{ site.copyright }}</span>
 	<span><a href="/privacy">Privacy Policy</a></span>
 	<span>
-		{% if page.pdf %}
-		<a href="/{{ page.pdf_url }}">Download Article</a>
+		{% if page.pdf_url %}
+		<a href="/{{ page.pdf_url }}">PDF Download</a>
 		{% endif %}
 	</span>
 </footer>
