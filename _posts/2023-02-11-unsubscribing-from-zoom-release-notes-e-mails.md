@@ -8,7 +8,7 @@ categories:
 image: "files/2023/02/Zoom-Unfollow.png"
 ---
 {% include figure.html
-	file="2023/02/Zoom-Unfollow.png"
+	file="files/2023/02/Zoom-Unfollow.png"
 	alt='Button labeled "Following" with drop-down menu open'
 	width=300 height=222
 %}

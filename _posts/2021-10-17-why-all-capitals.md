@@ -11,7 +11,7 @@ image: "files/2021/09/Teletype_Model_15_printing_news_report.jpg"
 ---
 {% include figure.html
 	alt="A news report in all upper case on the platen of a Model 15 Teletype"
-	file="2021/09/Teletype_Model_15_printing_news_report.jpg"
+	file="files/2021/09/Teletype_Model_15_printing_news_report.jpg"
  	caption="A Teletype Model 15 teleprinter  
 		Attribution: John Nagle at English Wikipedia, CC BY-SA 3.0 , via Wikimedia Commons"
 	width=300 height=225

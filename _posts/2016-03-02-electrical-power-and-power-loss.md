@@ -9,7 +9,7 @@ categories:
 image: "files/2016/03/voltage.png"
 ---
 {% include figure.html
-	file="2016/03/voltage.png"
+	file="files/2016/03/voltage.png"
   	alt="Water tank with closed outlet represents voltage. Tank with open outlet represents
     current. Narrow pipe represents more resistance than wide pipe."
 	width=300 height=104

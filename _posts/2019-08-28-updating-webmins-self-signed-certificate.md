@@ -9,7 +9,7 @@ categories:
 image: "files/2019/08/signature.png"
 ---
 {% include figure.html
-	file="2019/08/signature.png"
+	file="files/2019/08/signature.png"
 	width=300 height=225
 %}
 

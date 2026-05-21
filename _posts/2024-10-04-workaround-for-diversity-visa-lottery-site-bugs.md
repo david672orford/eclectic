@@ -9,7 +9,7 @@ categories:
 image: "files/2024/05/mistake-3085712_1280.jpg"
 ---
 {% include figure.html
-	file="2024/05/mistake-3085712_1280.jpg"
+	file="files/2024/05/mistake-3085712_1280.jpg"
 	caption="Image by Mohamed Hassan from Pixabay"
 	width=300 height=203
 %}

@@ -10,7 +10,7 @@ categories:
 image: "files/2019/02/GodfreyKneller-IsaacNewton-1689.jpg"
 ---
 {% include figure.html
-	file="2019/02/GodfreyKneller-IsaacNewton-1689.jpg"
+	file="files/2019/02/GodfreyKneller-IsaacNewton-1689.jpg"
 	width=218 height=300
 %}
 

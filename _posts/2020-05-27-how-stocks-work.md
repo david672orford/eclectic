@@ -8,7 +8,7 @@ categories:
 image: "files/2020/05/Wall_Street_NY_1867.jpg"
 ---
 {% include figure.html
-	file="2020/05/Wall_Street_NY_1867.jpg"
+	file="files/2020/05/Wall_Street_NY_1867.jpg"
 	caption="Wall Street, NY in 1867"
 	width=300 height=192
 %}

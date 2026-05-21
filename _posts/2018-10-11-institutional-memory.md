@@ -8,7 +8,7 @@ categories:
 image: "files/2018/10/publicdomainq-family-e1539291720134.png"
 ---
 {% include figure.html
-	file="2018/10/publicdomainq-family-e1539291720134.png"
+	file="files/2018/10/publicdomainq-family-e1539291720134.png"
 	width=504 height=508
 	%}
 
@@ -47,7 +47,7 @@ houses or occasionally when we stayed in a hotel.
 
 {% include figure.html
 	alt="joker card with boyish character on it"
-	file="2018/10/nicubunu-White-deck-Black-Joker.png"
+	file="files/2018/10/nicubunu-White-deck-Black-Joker.png"
 	width=146 height=198
 	%}
 On one such occasion we saw a situation comedy called _Mr. Belvedere_. The

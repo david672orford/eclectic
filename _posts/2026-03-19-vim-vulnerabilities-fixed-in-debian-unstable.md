@@ -1,4 +1,5 @@
 ---
+title: Vim Vulnerabilities Fixed in Debian Unstable
 categories:
   - computing
   - sysadmin
@@ -11,7 +12,7 @@ description: >
   install Vim 9.2 from Unstable.
 ---
 {% include figure.html 
-	file="common/Vimlogo.svg"
+	file="files/common/Vimlogo.svg"
 	alt="The word Vim over a green diamond shape"
 	width=545 height=545
 %}
@@ -23,10 +24,12 @@ alert suggesting an upgrade as it sometimes does. This produced a huge jump in o
 total number of vulnerabilities. Several of them have been given a severity
 level of Medium or High.
 
+<!--more-->
+
 Understanding and explaining the impact of bugs like these is not simple.  Vim
 is not like a web browser. A web browser downloads hundreds of files every time
 it is used. At best the user is explicitly aware only of the HTML page at the
-address shown in the address bar.  But this page could be pulling in dozens or
+address shown in the address bar. But this page could be pulling in dozens or
 even hundreds of files from various servers. The browser can potentially be
 attacked by putting a maliciously-crafted file on any of these servers.
 

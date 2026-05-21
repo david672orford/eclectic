@@ -12,7 +12,7 @@ image: "files/2020/03/1967_CPA_3496.jpg"
 ---
 {% include figure.html
 	alt="Postage stamp shows Earth in orbit around Sun with a man-made object in Earth orbit."
-	file="2020/03/1967_CPA_3496.jpg"
+	file="files/2020/03/1967_CPA_3496.jpg"
 	width=241 height=300
 %}
 On October 5, 1957, the Soviet newspaper _Pravda_ announced that the Soviet

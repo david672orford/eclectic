@@ -12,7 +12,7 @@ image: "files/2024/11/Isaac_Newton_1_lol.jpg"
 ---
 {% include figure.html
 	alt="Portrait of Isaac Newton"
-	file="2024/11/Isaac_Newton_1_lol.jpg"
+	file="files/2024/11/Isaac_Newton_1_lol.jpg"
 	caption="Isaac Newton"
 	width=186 height=300
 %}

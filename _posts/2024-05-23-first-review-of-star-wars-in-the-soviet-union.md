@@ -11,7 +11,7 @@ categories:
 image: "files/2024/05/667379_1_w_1200.jpg"
 ---
 {% include figure.html
-	file="2024/05/667379_1_w_1200.jpg"
+	file="files/2024/05/667379_1_w_1200.jpg"
 	width=300 height=133
 	caption="The review as it appeared in the <i>Literary Gazette</i>.
 		Caption under photograph of storm trooper:

@@ -33,7 +33,7 @@ style: >
    DIV.note-body > * { text-indent: 0; margin-left: 0 } !important
 ---
 {% include figure.html 
-	file="2024/01/Guglielmo_Marconi.jpg"
+	file="files/2024/01/Guglielmo_Marconi.jpg"
 	alt="A portrait of a man in suit and tie" width=225 height=300
 	caption="Guglielmo Marconi in 1909"
 	width=987 height=1314
@@ -48,7 +48,7 @@ The story is not part of the main body of the book. Instead it is part of a teas
 <p class="Text_20_body">DiMeo wrote in the notes to the June 1, 2009 episode of the <span class="T1">Memory Palace</span> podcast which is entitled <span class="T1">These Words, Forever</span><a class="note-citation" href="#ftn3">iii</a> that he was “spurred into doing it for the podcast after flipping through David (sic) Milner’s book <span class="T1">Perfecting Sound Forever</span>”. It is a three-minute story. After introducing Marconi and talking about his worldwide fame DiMeo says:</p>
 <p class="Quotations">But we are told that in his 60’s, somewhere around the time of his fourth or fifth heart attack, the inventor began to think about mortality. Or rather he began to think about immortality. Marconi become convinced that sound never dies, that sound waves once emitted from a radio from the vibrating strings of a Stradivarius, from whispering lovers, from a baby discovering how to make a “bah” or “guh” sound for the first time. Sound lived on forever, its waves flowing permanently, but growing weaker and weaker with each moment. He just hadn’t built a radio powerful enough to tune in the signal.</p>
 {% include figure.html
-	file="2025/09/1913_Marconi_operator_room_for_5_kilowatt_ocean_liner_station.jpeg"
+	file="files/2025/09/1913_Marconi_operator_room_for_5_kilowatt_ocean_liner_station.jpeg"
 	alt="A ship radio room with conduits for wires an a wooden office desk. On the desk and on the walls are wooden boards and boxes with knobs and switches"
 	width="300" height="219"
 	caption="This illustration from the 1913 Year Book of Wireless Telegraphy shows a Marconi radio room on an ocean liner"
@@ -57,7 +57,7 @@ The story is not part of the main body of the book. Instead it is part of a teas
 <p class="Quotations">But here was Marconi near the end of his life growing weaker and weaker with each heart attack, dreaming of a device that would let him hear lost sounds, let him tap into these eternal frequencies. He would tell people that if he got it right, he could hear Jesus of Nazareth giving the Sermon on the Mount. But he would be able to everything ever said, everything he ever said. At the end of his life he could sit in his piazza in Rome, and hear everything that was ever said to him or about him. He could relive every toast and testimonial. And we all could – hear everything: Hear Caesar, Hear Shakespeare give an actor a line-reading, hear my grandmother introduce herself to my grandfather at a nightclub in Rhode Island, hear someone tell you that they love you, that first time they told you they loved you, hear everything, forever.</p>
 <p class="Text_20_body">Ten years before his death Marconi did suffer a heart attack followed by angina pectoris and his heart problems eventually killed him.<a class="note-citation" href="#ftn4">iv</a> But the rest of this expanded version of the story appears to be nothing more than the podcaster’s own musings on the urban legend from Milner’s book. He supposes, but does not tell us that he is just supposing, that Marconi, as his death approached, would have been keen to hear sounds from the past. And he imagines what he himself might like to hear with the aid of such a device and carelessly says that Marconi actually “would tell people” what he would like to hear.</p>
 {% include figure.html
-	file="2025/09/SS_Birma_1914_postcard.jpg"
+	file="files/2025/09/SS_Birma_1914_postcard.jpg"
 	alt="Photograph of the Birma, a steamship with one funnel and four masts"
 	width="300" height="192"
 	caption="The SS Birma, seen here sometime before 1914, was a twin-screw fast steamship in mail and passenger service between New York and Libau (now Liepāja) in Latvia"
@@ -65,7 +65,7 @@ The story is not part of the main body of the book. Instead it is part of a teas
 <p class="Text_20_body">The story about the sinking of the Titanic also starts with real details about Marconi’s involvement. The Russian steamer is real too. She was called the Birma. But then the story goes off the deep end. The wireless operators on the Birma heard the Titanic’s distress calls around the same time everyone else did, during or immediately after the scheduled news broadcast from Cape Cod. The only difference is that the radio operators on the Birma used ship’s local time in their notes while those on other ships used New York time.<a class="note-citation" href="#ftn5">v</a> The exact time difference is disputed, but it was around an hour and a half. Radio operators also reported that signal propagation was weird that night since they noted that contact was intermittent and sometimes they could not talk to ships relatively nearby while they could reach ships further away. Perhaps DiMeo misunderstood the cause of the time difference and what was meant by weird propagation leading to his claim that radio waves can get stuck in the atmosphere for hours.</p>
 <p class="Text_20_body">Contrary to what DiMeo thinks, it really would have been “entirely foolish” for Marconi to suppose that sounds from the distance past are still coursing through the air waiting to be detected by an instrument of sufficient sensitivity and selectivity. While he was not a theoretical physicist, Marconi had a good working knowledge of how waves move and dissipate. Radio and sound waves do not bounce around like tennis balls. They spread out and dissipate quite quickly. As he told interviewer H. J. W. Dam, the power of a radio wave at the receiver decreases with the square of the distance.<a class="note-citation" href="#ftn6">vi</a> They do bounce around, but the square law means that their power falls off a cliff. And the same is true of sound waves which is why we cannot hear a human conversation more than a few dozen yards away. As the distance increases, the power of the sound wave dives toward zero until it is lost in the random movements of the air molecules.</p>
 {% include figure.html
-	file="2025/09/De_uitbarsting_van_de_Krakatau_KITLV_5888.jpg"
+	file="files/2025/09/De_uitbarsting_van_de_Krakatau_KITLV_5888.jpg"
 	alt="Over a short stretch of water we see a hilly shore. Over the shore a huge column of ash looms"
 	width="218" height="300"
 	caption="Ash cloud over the island of Krakatoa after the eruption of the volcano"

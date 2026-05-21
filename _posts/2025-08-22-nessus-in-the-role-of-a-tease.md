@@ -10,7 +10,7 @@ categories:
 image: "files/2025/08/Nessus-in-the-role-of-a-tease.png"
 ---
 {% include figure.html
-	file="2025/08/Nessus-in-the-role-of-a-tease.png"
+	file="files/2025/08/Nessus-in-the-role-of-a-tease.png"
 	width=1024 height=1536
 %}
 

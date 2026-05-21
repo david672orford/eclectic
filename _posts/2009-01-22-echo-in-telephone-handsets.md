@@ -8,7 +8,7 @@ categories:
 image: "files/2009/01/p4255513.jpg"
 ---
 {% include figure.html
-	file="2009/01/p4255513.jpg"
+	file="files/2009/01/p4255513.jpg"
 %}
 A common source of echo in VoIP phone systems is the telephone handsets. Of
 course, non-VoIP phone systems have this source of echo too, but it often is
@@ -23,7 +23,7 @@ Linksys SPA-841 in order to reduce echo.
 <!--more-->
 
 <br clear="both">
-{% include figure.html file="2009/01/p4255505.jpg"
+{% include figure.html file="files/2009/01/p4255505.jpg"
 	side="left"
 	width=300 height=225
 %}
@@ -31,7 +31,7 @@ Here is a typical SIP telephone, a Linksys SPA-841. It is not a bad
 phone, but there is a noticable echo.  
 
 <br clear="both">
-{% include figure.html file="2009/01/p4255506.jpg"
+{% include figure.html file="files/2009/01/p4255506.jpg"
 	side="left"
 	width=300 height=225
 %}
@@ -39,7 +39,7 @@ In order to add cotton wool, we must first open the handset. Notice the small
 foam-rubber plug in the centre. This plug conceals a screw.  
 
 <br clear="both">
-{% include figure.html file="2009/01/p4255508.jpg"
+{% include figure.html file="files/2009/01/p4255508.jpg"
 	side="left"
 	width=300 height=225
 %}
@@ -47,7 +47,7 @@ The plug should be gently removed using tweezers or needle-nose pliers. Once it
 is out, the screw can be removed.  
 
 <br clear="both">
-{% include figure.html file="2009/01/p4255511.jpg"
+{% include figure.html file="files/2009/01/p4255511.jpg"
 	side="left"
 	width=300 height=225
 %}
@@ -56,7 +56,7 @@ clips. Take a dull knife and gently pry them apart.
 
 <br clear="both">
 
-{% include figure.html file="2009/01/p4255512.jpg"
+{% include figure.html file="files/2009/01/p4255512.jpg"
 	side="left"
 	width=300 height=225
 %}
@@ -66,7 +66,7 @@ tend to slip out of the hand easily and would give the impression of poor
 quality.  
 
 <br clear="both">
-{% include figure.html file="2009/01/p4255513.jpg"
+{% include figure.html file="files/2009/01/p4255513.jpg"
 	side="left"
 	width=300 height=225
 %}
