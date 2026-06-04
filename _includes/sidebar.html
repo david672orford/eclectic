@@ -14,7 +14,7 @@
   <ul>
   {% for category in categories %}
   <li>
-    <a href="/category/{{ category[0] | slugify }}">
+    <a href="/category/{{ category[0] | slugify }}/">
       {{ category[0] }}</a>
     ({{ category[1] | size }})
   </li>
