@@ -9,7 +9,7 @@ categories:
 image: "files/2020/12/DoublePoleDoubleThrowSwitch.png"
 ---
 {% include figure.html
-	file="2020/12/DoublePoleDoubleThrowSwitch.png"
+	file="files/2020/12/DoublePoleDoubleThrowSwitch.png"
 	width=300 height=147
 %}
 
