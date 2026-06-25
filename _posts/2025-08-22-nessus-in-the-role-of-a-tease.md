@@ -52,8 +52,8 @@ The next flock of erroneous vulnerability reports flew in from a different
 place: misinterpretation of a poorly-written message posted to the Debian
 security mailing list. This message was sent in connection with the release of
 Debian version 13. It announced an updated version of a spreadsheet which lists
-the Debian release and various dates related to their life cycle. The
-announcement said the updated spreadsheet was now available for installation on
+Debian releases and various dates related to their life cycles. The
+announcement said an updated spreadsheet was now available for installation on
 Debian version 11 as an update to a package called "distro-info-data".
 
 The problem was that the announcement of the updated spreadsheet included
@@ -65,7 +65,7 @@ decided that the risk level was "high" despite the fact that no vulnerability
 was described and so there was no information on which to base a vulnerability
 assessment.
 
-So the vulnerability reports which Nessus generated are nonsense.
+So the vulnerability reports which Nessus generated in this matter were nonsense.
 Debian 11 is under long-term support until August 2026. Until then it receives
 security patches. Nothing changed from a security perspective just because a
 new version of Debian was released in August 2025.
@@ -77,23 +77,22 @@ literal text of a vulnerability report. CVE-2025-54090 is described as a bug in
 version 2.4.64 of the Apache Web Server. The vulnerability report recommends
 upgrading to version 2.4.65.
 
-The problem is that someone at Tenable assumed
-that this was an old bug which must be present in versions prior to 2.4.64. The
-report does not say that and it is not true. The bug was introduced into the
-code on July 7th, three days before version 2.4.64 released.
+The problem is that someone at Tenable assumed that this was an old bug which
+must also be present in versions prior to 2.4.64. The report does not say that
+and it is not true. The bug was introduced into the Apache codebase on July
+7th, three days before version 2.4.64 released.
 
-As a consequence
-of this misunderstanding Nessus started demanding that system administrators
-upgrade earlier versions such as 2.4.62 to 2.4.65 in order to fix this
-"high-risk" vulnerability which they never had.
+As a consequence of this misunderstanding, Nessus started demanding that system
+administrators upgrade earlier versions such as 2.4.62 to 2.4.65 in order to
+fix this "high-risk" vulnerability which they had never had.
 
 ## Costs
 
 Some may argue that more information is always better. I disagree. Nessus
-reports, particularly high-risk ones, must be taken seriously. But responding
+reports, particularly high-risk ones, should be taken seriously. But responding
 to them takes up enormous amounts of staff time. And a false report can take
 considerably more time to address than a true on. A real security defect can
-often be can be fixed quickly and crossed off the list. But a false reports
+often be fixed quickly and crossed off the list. But a false report
 requires investigation and considerable discussion until everyone involved is
 satisfied that it is indeed false. When the time of highly-skilled staff
 members is consumed so uselessly, it takes them away from activities which
