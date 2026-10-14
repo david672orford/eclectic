@@ -1,0 +1,189 @@
+<svg width="900" height="600" viewbox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+    <style>
+	rect.background {
+		fill: white;
+		}
+	text {
+		font-family: "Liberation Sans",sans-serif;
+		font-weight: medium;
+		}
+	text.title {
+		font-size: 30px;
+		text-anchor: middle;
+		font-weight: bold;
+		}
+	tspan.italic {
+		font-style: italic;
+		}
+	.legend text {
+		font-size: 18px;
+		}
+	.pie text {
+		font-family: sans-serif;
+		font-weight: medium;
+		font-size: 18px;
+		alignment-baseline: middle;
+		pointer-events: none;
+		}
+	text.left {
+		text-anchor: start;
+		}
+	text.right {
+		text-anchor: end;
+		}
+	text.small {
+		font-size: 12px;
+		}
+	text.medium {
+		font-size: 16px;
+		}
+    </style>
+	<rect class="background" x="0" y="0" width="900" height="600"/>
+	<text class="title" x="450.0" y="30">
+		Arguments for Biological Evolution by Subtopic Word Count
+	</text> 
+	<g class="legend" transform="translate(15, 50)">
+		
+		
+		<g transform="translate(0,30)">
+			<rect x="0" y="-16" width="20" height="20" fill="#F44336"/>
+			<text x="25">Biogeography: 72 words</text>
+		</g>
+		
+		<g transform="translate(0,60)">
+			<rect x="0" y="-16" width="20" height="20" fill="#9C27B0"/>
+			<text x="25">Breeding Experiments: 720 words</text>
+		</g>
+		
+		<g transform="translate(0,90)">
+			<rect x="0" y="-16" width="20" height="20" fill="#FF9800"/>
+			<text x="25">Classification: 1307 words</text>
+		</g>
+		
+		<g transform="translate(0,120)">
+			<rect x="0" y="-16" width="20" height="20" fill="#3F51B5"/>
+			<text x="25">Convergent Evolution: 167 words</text>
+		</g>
+		
+		<g transform="translate(0,150)">
+			<rect x="0" y="-16" width="20" height="20" fill="#FFC107"/>
+			<text x="25">Eclipse of Darwinism: 480 words</text>
+		</g>
+		
+		<g transform="translate(0,180)">
+			<rect x="0" y="-16" width="20" height="20" fill="#FF5722"/>
+			<text x="25">Fossil Record: 716 words</text>
+		</g>
+		
+		<g transform="translate(0,210)">
+			<rect x="0" y="-16" width="20" height="20" fill="#8BC34A"/>
+			<text x="25">Geographic Distribution: 851 words</text>
+		</g>
+		
+		<g transform="translate(0,240)">
+			<rect x="0" y="-16" width="20" height="20" fill="#2196F3"/>
+			<text x="25">Homologies: 2807 words</text>
+		</g>
+		
+		<g transform="translate(0,270)">
+			<rect x="0" y="-16" width="20" height="20" fill="#E91E63"/>
+			<text x="25">Recapitulation Theory: 1571 words</text>
+		</g>
+		
+		<g transform="translate(0,300)">
+			<rect x="0" y="-16" width="20" height="20" fill="#009688"/>
+			<text x="25">Summary: 266 words</text>
+		</g>
+		
+		<g transform="translate(0,330)">
+			<rect x="0" y="-16" width="20" height="20" fill="#03A9F4"/>
+			<text x="25">Vestigial Structures: 828 words</text>
+		</g>
+		
+	</g>
+	<g class="pie" transform="translate(350,50)">
+		<g>
+			
+			<path d="M 267.5 267.5 L 267.5 0.0 A 267.5 267.5 0 0 1 279.8629067589223 0.28583769479922694 z" fill="#F44336"></path>
+			
+			<path d="M 267.5 267.5 L 279.8629067589223 0.28583769479922694 A 267.5 267.5 0 0 1 308.3916477275489 3.143946265408829 z" fill="#3F51B5"></path>
+			
+			<path d="M 267.5 267.5 L 308.3916477275489 3.143946265408829 A 267.5 267.5 0 0 1 352.7307150452695 13.941377167188278 z" fill="#009688"></path>
+			
+			<path d="M 267.5 267.5 L 352.7307150452695 13.941377167188278 A 267.5 267.5 0 0 1 425.6344449984768 51.74609550456867 z" fill="#FFC107"></path>
+			
+			<path d="M 267.5 267.5 L 425.6344449984768 51.74609550456867 A 267.5 267.5 0 0 1 504.950859721175 144.31989114441046 z" fill="#FF5722"></path>
+			
+			<path d="M 267.5 267.5 L 504.950859721175 144.31989114441046 A 267.5 267.5 0 0 1 534.9648403034414 263.16304237343826 z" fill="#9C27B0"></path>
+			
+			<path d="M 267.5 267.5 L 534.9648403034414 263.16304237343826 A 267.5 267.5 0 0 1 500.2419861826869 399.36135850861683 z" fill="#03A9F4"></path>
+			
+			<path d="M 267.5 267.5 L 500.2419861826869 399.36135850861683 A 267.5 267.5 0 0 1 397.8266585444255 501.1048203112357 z" fill="#8BC34A"></path>
+			
+			<path d="M 267.5 267.5 L 397.8266585444255 501.1048203112357 A 267.5 267.5 0 0 1 180.72412713681763 520.5339856399389 z" fill="#FF9800"></path>
+			
+			<path d="M 267.5 267.5 L 180.72412713681763 520.5339856399389 A 267.5 267.5 0 0 1 7.144990525755418 328.9126944667471 z" fill="#E91E63"></path>
+			
+			<path d="M 267.5 267.5 L 7.144990525755418 328.9126944667471 A 267.5 267.5 0 0 1 267.49999999999994 0.0 z" fill="#2196F3"></path>
+			
+		</g>
+		<g>
+			
+			<text class="right small" dy="0.35em"
+				transform="translate(273.373950075601,13.442895522464596) rotate(-88.67552376085847)">
+				Biogeography
+			</text>
+			
+			<text class="right small" dy="0.35em"
+				transform="translate(292.8323176162087,14.640771753943056) rotate(-84.27899846704139)">
+				Convergent Evolution
+			</text>
+			
+			<text class="right small" dy="0.35em"
+				transform="translate(327.62726087681256,20.590647960730905) rotate(-76.31374552887071)">
+				Summary
+			</text>
+			
+			<text class="right medium" dy="0.35em"
+				transform="translate(384.4848895810346,41.90290065093228) rotate(-62.59070005109861)">
+				Eclipse of Darwinism
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(460.4796109416417,102.15676492274437) rotate(-40.58967807869187)">
+				Fossil Record
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(513.8888500671591,205.2741999843876) rotate(-14.173735309146643)">
+				Breeding Experiments
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(513.7483795122807,330.2793852516553) rotate(14.302503832396537)">
+				Vestigial Structures
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(446.60118784866825,447.7838876222611) rotate(45.188553909044465)">
+				Geographic Distribution
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(290.1518899180529,520.6134281466324) rotate(84.88605007664795)">
+				Classification
+			</text>
+			
+			<text class="left" dy="0.35em"
+				transform="translate(79.1587151905645,438.1079601347226) rotate(-42.17169136433313)">
+				Recapitulation Theory
+			</text>
+			
+			<text class="left" dy="0.35em"
+				transform="translate(68.24427039945124,109.77660336413942) rotate(38.36382217680125)">
+				Homologies
+			</text>
+			
+		</g>
+	</g>
+</svg>

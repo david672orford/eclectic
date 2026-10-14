@@ -1,0 +1,141 @@
+<svg width="900" height="600" viewbox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+    <style>
+	rect.background {
+		fill: white;
+		}
+	text {
+		font-family: "Liberation Sans",sans-serif;
+		font-weight: medium;
+		}
+	text.title {
+		font-size: 30px;
+		text-anchor: middle;
+		font-weight: bold;
+		}
+	tspan.italic {
+		font-style: italic;
+		}
+	.legend text {
+		font-size: 18px;
+		}
+	.pie text {
+		font-family: sans-serif;
+		font-weight: medium;
+		font-size: 18px;
+		alignment-baseline: middle;
+		pointer-events: none;
+		}
+	text.left {
+		text-anchor: start;
+		}
+	text.right {
+		text-anchor: end;
+		}
+	text.small {
+		font-size: 12px;
+		}
+	text.medium {
+		font-size: 16px;
+		}
+    </style>
+	<rect class="background" x="0" y="0" width="900" height="600"/>
+	<text class="title" x="450.0" y="30">
+		Theological Positions of Scientific Experts by Word Count
+	</text> 
+	<g class="legend" transform="translate(15, 50)">
+		
+		
+		<g transform="translate(0,30)">
+			<rect x="0" y="-16" width="20" height="20" fill="#FFC107"/>
+			<text x="25">Day-Age Theory: 344 words</text>
+		</g>
+		
+		<g transform="translate(0,60)">
+			<rect x="0" y="-16" width="20" height="20" fill="#F44336"/>
+			<text x="25">Generic: 74 words</text>
+		</g>
+		
+		<g transform="translate(0,90)">
+			<rect x="0" y="-16" width="20" height="20" fill="#03A9F4"/>
+			<text x="25">Modernist: 2565 words</text>
+		</g>
+		
+		<g transform="translate(0,120)">
+			<rect x="0" y="-16" width="20" height="20" fill="#FF5722"/>
+			<text x="25">Positivist: 346 words</text>
+		</g>
+		
+		<g transform="translate(0,150)">
+			<rect x="0" y="-16" width="20" height="20" fill="#009688"/>
+			<text x="25">Religious Functionalism: 214 words</text>
+		</g>
+		
+		<g transform="translate(0,180)">
+			<rect x="0" y="-16" width="20" height="20" fill="#3F51B5"/>
+			<text x="25">Strawman: 184 words</text>
+		</g>
+		
+		<g transform="translate(0,210)">
+			<rect x="0" y="-16" width="20" height="20" fill="#9C27B0"/>
+			<text x="25">Vitalism/Panentheism: 405 words</text>
+		</g>
+		
+	</g>
+	<g class="pie" transform="translate(350,50)">
+		<g>
+			
+			<path d="M 267.5 267.5 L 267.5 0.0 A 267.5 267.5 0 0 1 297.5371115792639 1.6917572234170848 z" fill="#F44336"></path>
+			
+			<path d="M 267.5 267.5 L 297.5371115792639 1.6917572234170848 A 267.5 267.5 0 0 1 369.77386034935125 20.323327376466608 z" fill="#3F51B5"></path>
+			
+			<path d="M 267.5 267.5 L 369.77386034935125 20.323327376466608 A 267.5 267.5 0 0 1 443.4285818855262 65.99222328717013 z" fill="#009688"></path>
+			
+			<path d="M 267.5 267.5 L 443.4285818855262 65.99222328717013 A 267.5 267.5 0 0 1 520.5686089788749 180.82515272873383 z" fill="#FFC107"></path>
+			
+			<path d="M 267.5 267.5 L 520.5686089788749 180.82515272873383 A 267.5 267.5 0 0 1 529.869977252348 319.6367915833187 z" fill="#FF5722"></path>
+			
+			<path d="M 267.5 267.5 L 529.869977252348 319.6367915833187 A 267.5 267.5 0 0 1 451.5512324993015 461.6169591135408 z" fill="#9C27B0"></path>
+			
+			<path d="M 267.5 267.5 L 451.5512324993015 461.6169591135408 A 267.5 267.5 0 1 1 267.49999999999994 0.0 z" fill="#03A9F4"></path>
+			
+		</g>
+		<g>
+			
+			<text class="right small" dy="0.35em"
+				transform="translate(281.7902399241724,13.777110476982017) rotate(-86.77637947725071)">
+				Generic
+			</text>
+			
+			<text class="right medium" dy="0.35em"
+				transform="translate(330.9677657376249,21.428143955319484) rotate(-75.53727008712488)">
+				Strawman
+			</text>
+			
+			<text class="right medium" dy="0.35em"
+				transform="translate(401.41483099766765,51.522376937178734) rotate(-58.19941916747338)">
+				Religious Functionalism
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(478.44770399730885,125.79403046002693) rotate(-33.89157792836398)">
+				Day-Age Theory
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(521.0564091824182,250.50991502322285) rotate(-3.8334946757018344)">
+				Positivist
+			</text>
+			
+			<text class="right" dy="0.35em"
+				transform="translate(490.0162149712087,390.24383772673417) rotate(28.881897386253637)">
+				Vitalism/Panentheism
+			</text>
+			
+			<text class="left" dy="0.35em"
+				transform="translate(31.44599214587339,361.61706009541484) rotate(-21.737657308809275)">
+				Modernist
+			</text>
+			
+		</g>
+	</g>
+</svg>

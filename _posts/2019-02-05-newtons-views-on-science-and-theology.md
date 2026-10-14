@@ -7,10 +7,10 @@ categories:
 - science
 - religion
 - history
-image: "files/2019/02/GodfreyKneller-IsaacNewton-1689.jpg"
+image: "files/portraits/Isaac-Newton.jpg"
 ---
 {% include figure.html
-	file="files/2019/02/GodfreyKneller-IsaacNewton-1689.jpg"
+	file="files/portraits/Isaac-Newton.jpg"
 	width=218 height=300
 %}
 

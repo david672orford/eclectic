@@ -11,7 +11,7 @@ description: >
 ---
 {% include figure.html 
 	file="files/2026/05/fuse-typical-automotive.jpg"
-	alt="The word Vim over a green diamond shape"
+	alt="A blade-type automotive fuse"
 	width=545 height=545
 %}
 A fuse is an electrical device which interrupts a circuit during an overload
@@ -25,7 +25,7 @@ A fuse has two key ratings. The first is a current in amperes. The second is
 a voltage. The meaning of the current rating is easy to understand. At some
 point above this current the fuse will "blow." But the voltage rating is a
 frequent subject of confusion.
-
+<!--more-->
 This is one of those cases where a little bit of knowledge is dangerous.
 While the average person looks only at the amperage rating, someone who
 has had a little education in electrical theory may attempt to apply Joule's law:

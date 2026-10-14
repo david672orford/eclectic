@@ -1,4 +1,5 @@
 #! /bin/sh
+# apt-get install bundle
 set -eu
 if [ ! -d .bundle ]
 	then

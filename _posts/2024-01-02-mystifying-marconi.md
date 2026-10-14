@@ -7,10 +7,10 @@ categories:
 - history
 - science
 - radio
-image: "files/2024/01/Guglielmo_Marconi.jpg"
+image: "files/portraits/Guglielmo-Marconi.jpg"
 ---
 {% include figure.html
-	file="files/2024/01/Guglielmo_Marconi.jpg"
+	file="files/portraits/Guglielmo-Marconi.jpg"
 	alt="A portrait of a man in suit and tie"
 	caption="Guglielmo Marconi in 1909"
 	width=987 height=1314

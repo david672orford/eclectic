@@ -1,4 +1,7 @@
-<figure class="float {% if include.side %}{{include.side}}{% else %}right{% endif %}{% if include.width and include.width < include.height %} portrait{% endif %}">
+<figure class="float {% if include.side
+		%}{{include.side}}{% else %}right{% endif
+		%}{% if include.width and include.width < include.height %} portrait{% endif
+		%}{% if include.chart %} chart{% endif %}">
   <a href="/{{include.file}}">
     <img src="/{{include.file}}" alt="{{include.alt|escape}}">
   </a>

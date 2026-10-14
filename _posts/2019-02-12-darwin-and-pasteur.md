@@ -7,10 +7,10 @@ categories:
 - history
 - evolution
 - science
-image: "files/2019/02/Charles_Darwin_seated_crop.jpg"
+image: "files/portraits/Charles-Darwin.jpg"
 ---
 {% include figure.html
-	file="files/2019/02/Charles_Darwin_seated_crop.jpg"
+	file="files/portraits/Charles-Darwin.jpg"
 	caption="Charles Darwin"
 	alt="Charles Darwin seated"
 	width=228 height=300
@@ -81,7 +81,7 @@ could write:
 {% include figure.html
 	width=207 height=300
 	alt="Man with beard seated"
-	file="files/2019/02/Joseph_LeConte_1823-1901.jpg"
+	file="files/portraits/Joseph-LeConte.jpg"
 	caption="Joseph LeConte"
 %}
 
@@ -108,7 +108,7 @@ Eugenics, and Scientific Racism.
 
 {% include figure.html
 	alt="Portrait of man with glasses and mustache"
-	file="files/2019/02/William_T._Sedgwick.jpg"
+	file="files/portraits/William-Sedgwick.jpg"
 	caption="William T. Sedgwick"
 	width=206 height=300
 %}
@@ -129,7 +129,7 @@ posthumously in _Science_ in 1923:
 {% include figure.html
 	alt="Louis Pasteur seated"
 	width=218 height=300
-	file="files/2019/02/Louis_Pasteur_foto_av_Paul_Nadar_Crisco_edit.jpg"
+	file="files/portraits/Louis-Pasteur.jpg"
 	caption="Louis Pasteur"
 %}
 

@@ -25,6 +25,12 @@ DIV.scroller {
 	flex: 1 1 auto;
 	overflow-y: auto;
 	}
+@media print {
+	DIV.scroller {
+		height: auto;
+		overflow-y: visible;
+		}
+	}
 MAIN.padded {
 	padding: 0.5em;
 	}
@@ -98,6 +104,11 @@ DL {
 	}
 DD {
 	margin-left: 1em;
+	}
+SUP {
+	line-height: 0;
+	font-size: 0.70em;
+	vertical-align: super;
 	}
 
 /* Blog posts preview page */
@@ -243,13 +254,6 @@ FIGURE.float {
 	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.40);
 	background-color: Canvas;
 	}
-FIGURE.float IMG {
-	display: block;
-	width: 100%;
-	}
-FIGURE.float.portrait {
-	width: 175px;
-	}
 FIGURE.float.left {
 	float: left;
 	margin: 0 .5em .5em 0;
@@ -258,10 +262,21 @@ FIGURE.float.right {
 	float: right;
 	margin: 0 0 .5em .5em;
 	}
+FIGURE.float.portrait {
+	width: 175px;
+	}
+FIGURE.float.chart {
+	width: 500px;
+	max-width: 50%;
+	}
+FIGURE.float IMG {
+	display: block;
+	width: 100%;
+	}
 FIGURE.float FIGCAPTION {
 	margin-top: .3em;
 	font-family: sans-serif;
-	font-size: 80%;
+	font-size: 70%;
 	}
 
 /* Syntax highlighting */
